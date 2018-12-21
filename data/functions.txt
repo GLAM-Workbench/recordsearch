@@ -150,7 +150,6 @@ FINANCIAL MATTERS
     -- Taxation Compliance
 FOREIGN POLICY
   - Government Representation Overseas
-    -- Consular Services
     -- Extraditions
   - International Relations
     -- Consular Services
@@ -163,7 +162,6 @@ FOREIGN POLICY
       --- Overseas Student Scholarship Programs
     -- Overseas Promotion
     -- Passport Services
-  - Overseas Aid Programs
   - Passports
 GOVERNOR GENERAL
 GRANTS ADMINISTRATION
@@ -398,7 +396,6 @@ TRADE
   - Trade Development Programs
   - Trade Expositions
   - Trademark Registration
-  - Tariff Regulation
 TRAINING
 TRANSPORT
   - Air Transport
@@ -410,8 +407,18 @@ TRANSPORT
       --- Flight Regulation
   - Land Transport
     -- Rail Transport
+      --- Rail Harmonisation Standards
+      --- Rail Land Acquisition Regulation
+      --- Rail Transport Safety
+      --- Railway Maintenance
     -- Road Safety
     -- Road Transport
+      --- Driving Licenses Administration
+      --- Road Surface Maintenance
+      --- Road Traffic Regulation
+      --- Road Transport Safety
+      --- Vehicle Registration
+      --- Vehicle Standards
   - Rescue Coordination
   - Sea Transport
     -- Lighthouses
@@ -420,18 +427,6 @@ TRANSPORT
     -- Sea Safety
   - Freight Movement Regulation
   - Passenger Services
-  - Rail Transport
-    -- Rail Harmonisation Standards
-    -- Rail Land Acquisition Regulation
-    -- Rail Transport Safety
-    -- Railway Maintenance
-  - Road Transport
-    -- Driving Licenses Administration
-    -- Road Surface Maintenance
-    -- Road Traffic Regulation
-    -- Road Transport Safety
-    -- Vehicle Registration
-    -- Vehicle Standards
   - Transport Infrastructure Development
 TRANSPORT AND STORAGE
 URBAN OR REGIONAL DEVELOPMENT

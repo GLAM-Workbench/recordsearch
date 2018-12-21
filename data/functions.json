@@ -512,9 +512,6 @@
                 "term": "government representation overseas",
                 "narrower": [
                     {
-                        "term": "consular services"
-                    },
-                    {
                         "term": "extraditions"
                     }
                 ]
@@ -555,9 +552,6 @@
                         "term": "passport services"
                     }
                 ]
-            },
-            {
-                "term": "overseas aid programs"
             },
             {
                 "term": "passports"
@@ -1330,9 +1324,6 @@
             },
             {
                 "term": "trademark registration"
-            },
-            {
-                "term": "tariff regulation"
             }
         ]
     },
@@ -1371,13 +1362,47 @@
                 "term": "land transport",
                 "narrower": [
                     {
-                        "term": "rail transport"
+                        "term": "rail transport",
+                        "narrower": [
+                            {
+                                "term": "rail harmonisation standards"
+                            },
+                            {
+                                "term": "rail land acquisition regulation"
+                            },
+                            {
+                                "term": "rail transport safety"
+                            },
+                            {
+                                "term": "railway maintenance"
+                            }
+                        ]
                     },
                     {
                         "term": "road safety"
                     },
                     {
-                        "term": "road transport"
+                        "term": "road transport",
+                        "narrower": [
+                            {
+                                "term": "driving licenses administration"
+                            },
+                            {
+                                "term": "road surface maintenance"
+                            },
+                            {
+                                "term": "road traffic regulation"
+                            },
+                            {
+                                "term": "road transport safety"
+                            },
+                            {
+                                "term": "vehicle registration"
+                            },
+                            {
+                                "term": "vehicle standards"
+                            }
+                        ]
                     }
                 ]
             },
@@ -1406,46 +1431,6 @@
             },
             {
                 "term": "passenger services"
-            },
-            {
-                "term": "rail transport",
-                "narrower": [
-                    {
-                        "term": "rail harmonisation standards"
-                    },
-                    {
-                        "term": "rail land acquisition regulation"
-                    },
-                    {
-                        "term": "rail transport safety"
-                    },
-                    {
-                        "term": "railway maintenance"
-                    }
-                ]
-            },
-            {
-                "term": "road transport",
-                "narrower": [
-                    {
-                        "term": "driving licenses administration"
-                    },
-                    {
-                        "term": "road surface maintenance"
-                    },
-                    {
-                        "term": "road traffic regulation"
-                    },
-                    {
-                        "term": "road transport safety"
-                    },
-                    {
-                        "term": "vehicle registration"
-                    },
-                    {
-                        "term": "vehicle standards"
-                    }
-                ]
             },
             {
                 "term": "transport infrastructure development"
