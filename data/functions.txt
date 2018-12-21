@@ -1,0 +1,496 @@
+ADMINISTRATIVE SERVICES
+  - Fleet
+  - Freight
+  - Goods And Services
+  - Government Accommodation And Catering
+  - Property Management
+    -- Acquisition
+    -- Leasing
+    -- Maintenance
+  - Removals
+  - Storage
+  - Valuation
+AUDIT
+AUSTRALIAN CAPITAL TERRITORY
+CABINET
+CEREMONIAL FUNCTIONS
+COLONIAL ADMINISTRATION
+COMMITTEES OF INQUIRY
+COMMUNICATIONS
+  - Broadcasting
+    -- Radio Broadcasting
+    -- Television Broadcasting
+    -- Broadcasting Standards
+    -- Radio Broadcasting
+    -- Television Broadcasting
+  - Government Media
+    -- Advertising Standards
+  - Postal Services
+    -- Courier Services
+    -- Electronic Postal Services
+    -- Retail Postal Services
+  - Publishing And Printing
+  - Telecommunications
+    -- Carriage Service Providers
+    -- Carrier Licensing
+    -- Equipment Licensing
+    -- Mobile Telephone Services
+    -- Telephone Services
+  - Broadcasting
+    -- Radio Broadcasting
+    -- Television Broadcasting
+    -- Broadcasting Standards
+    -- Radio Broadcasting
+    -- Television Broadcasting
+  - Call Centre Administration
+  - Electronic Commerce
+  - Government Media
+    -- Advertising Standards
+  - Information Management Standards
+  - Media Ownership Regulation
+  - Postal Services
+    -- Courier Services
+    -- Electronic Postal Services
+    -- Retail Postal Services
+  - Publishing
+  - Radio Communication
+  - Satellite Communication
+  - Telecommunications
+    -- Carriage Service Providers
+    -- Carrier Licensing
+    -- Equipment Licensing
+    -- Mobile Telephone Services
+    -- Telephone Services
+COURTS AND TRIBUNALS
+CULTURAL AFFAIRS
+  - Archives Administration
+  - Arts Development
+    -- Film Production
+    -- Arts Funding
+    -- Arts Incentive Schemes
+    -- Arts Promotion
+  - Collection Management
+    -- Artifact Export Regulation
+    -- Collection Accessioning
+    -- Collection Acquisition
+    -- Collection Storage
+    -- Preservation Services
+  - Literature Funding
+  - Arts Development
+    -- Film Production
+    -- Arts Funding
+    -- Arts Incentive Schemes
+    -- Arts Promotion
+  - Collection Access
+  - Collection Promotion
+  - Cultural Awards And Scholarships
+  - Cultural Festivals
+  - Cultural Gifts Programs
+  - Indigenous Cultural Heritage
+  - Multicultural Heritage Promotion
+DEFENCE
+  - Defence Administration
+    -- Defence Coordination
+      --- Natural Disasters
+  - Defence Forces
+    -- Air Force
+      --- Air Force Administration
+      --- Air Force Commands
+        ---- Air Operations
+        ---- Logistics (Air Force)
+        ---- Training (Air Force)
+    -- Army
+      --- Army Administration
+      --- Army Commands
+        ---- Field Force (Army)
+        ---- Logistics (Army)
+        ---- Training (Army)
+    -- Courts Martial
+    -- Defence Service Home Schemes
+    -- Logistics (Defence)
+    -- Navy
+      --- Navy Administration
+      --- Navy Commands
+        ---- Maritime Commands (Navy)
+        ---- Navy Support
+    -- Prisoners Of War
+  - Defence Industries
+    -- Munitions
+    -- Ordnance
+    -- Shipbuilding
+  - Defence Intelligence
+  - Defence Research
+  - Australian Defence Forces (Adf)
+  - Defence Estate Management
+  - Defence Force Careers
+  - Emergency Management
+  - Military Operations
+  - Strategic Development
+  - Strategic Policy
+  - Strategic Support
+    -- Logistics
+EDUCATION
+  - Curriculum Development
+  - Preschool Education
+  - Primary Education
+  - Secondary Education
+  - Student Assistance
+  - Tertiary Education
+ELECTORAL MATTERS
+  - Declaration Of Interests
+  - Election Campaigning
+  - Electoral Boundary Assessment
+ENVIRONMENT
+  - Conservation
+  - Environmental Monitoring
+  - National Heritage
+  - National Parks
+  - Built Environment
+  - Conservation Programs
+  - Environmental Impact Assessment
+  - Historic Relic Protection
+  - Indigenous Heritage Conservation
+  - Marine Life Protection Programs
+  - Natural Heritage Protection
+  - Oceans Governance
+  - Pollutant Prevention Programs
+  - World Heritage Listings
+FINANCIAL MATTERS
+  - Banking
+  - Commonwealth State Relations
+  - Corporate Affairs
+  - Currency
+    -- Counterfeiting
+    -- Exchange Rates
+  - Foreign Investment Control
+  - Home Savings Schemes
+  - Insurance
+  - Market Regulation
+  - Public Borrowing
+  - Rationing And Price Control
+  - Superannuation
+  - Taxation
+    -- Income Assessment
+    -- Revenue Raising
+    -- Taxation Compliance
+FOREIGN POLICY
+  - Government Representation Overseas
+    -- Consular Services
+    -- Extraditions
+  - International Relations
+    -- Consular Services
+    -- Diplomatic Missions
+    -- International Affairs
+    -- International Liaison
+    -- International Treaty Participation
+    -- Overseas Aid Programs
+      --- Development Assistance Programs
+      --- Overseas Student Scholarship Programs
+    -- Overseas Promotion
+    -- Passport Services
+  - Overseas Aid Programs
+  - Passports
+GOVERNOR GENERAL
+GRANTS ADMINISTRATION
+HEALTH
+  - Health Services
+    -- Aged Persons Services
+    -- Dental Services
+    -- Disability Services
+    -- Hearing Services
+    -- Nursing Services
+  - Hospitals And Clinics
+    -- Pathology
+  - Medical Research
+    -- Ethical Compliance
+    -- Medical Aids Regulation
+    -- Medical Research Funding
+    -- National Referral Laboratory Services
+    -- Population-Based Research
+  - Pharmaceuticals And Medical Aids
+  - Quarantine
+  - Rehabilitation
+HOUSE OF REPRESENTATIVES COMMITTEES
+INDIGENOUS AFFAIRS
+  - Indigenous Enterprises
+  - Indigenous Land Rights
+  - Indigenous Settlements
+INDUSTRIAL RELATIONS
+  - Arbitration
+  - Compensation Schemes
+  - Employment
+    -- Labour Market Programs
+    -- Trade Skills Assessment
+    -- Vocational Training Schemes
+  - National Service
+  - Occupational Health And Safety
+  - Trade Union Training
+INDUSTRIES
+INVESTIGATION
+JUSTICE ADMINISTRATION
+  - Court Reporting
+  - Family Law
+  - Federal Law
+  - Supreme Law
+  - Administrative Law
+    -- Bankruptcy
+    -- Censorship
+    -- Consumer Affairs
+    -- Copyright
+    -- Human Rights
+    -- Legal Aid
+    -- Legal Services
+    -- Ombudsman
+    -- Administrative Decision Appeal
+    -- Administrative Decision Review
+    -- Censorship Standards
+    -- Copyright Regulation
+    -- Recordkeeping Standards
+  - Associations And Corporate Law
+  - Civil Law
+  - Commissions Of Inquiry
+  - Coronial Law
+  - Court Reporting
+  - Criminal Law
+  - Human Rights Obligations
+  - Juvenile Justice
+  - Legal Aid Services
+  - Local Laws And Ordinances
+  - Native Title Claims
+  - Privacy Guideline Monitoring
+  - Prosecution Services
+LAND USE
+LEGAL
+LEGISLATION
+LOANS
+MARKETING
+MEMORIALS
+  - Historic Memorials
+  - War Memorials
+MIGRATION
+  - Citizenship
+    -- Naturalisation Assessment
+    -- Presentation Arrangements
+  - Deportation
+  - Migrant Services
+    -- Interpreter Services
+    -- Language Services
+    -- Migrant Accommodation Services
+    -- Migrant Settlements Programs
+  - Multiculturalism
+  - Passenger Entry Control
+  - Refugees
+  - Visas
+NATIONAL EVENTS
+NATIONAL LAND USE
+PARLIAMENTARY COMMITTEES
+PARLIAMENTARY MATTERS
+  - Parliamentary Chamber Administration
+  - Parliamentary Legislation
+PLANNING
+POLICE STATION
+PORT AUTHORITIES
+PRIMARY INDUSTRIES
+  - Agriculture
+    -- Horticulture
+    -- Pastoral
+    -- Viticulture
+  - Fisheries Regulation
+  - Forestry Regulation
+  - Chemical And Pesticide Regulation
+  - Climate Information Services
+  - Marine And Rural Regulation
+  - Marine And Rural Support
+  - Rural Field Day Promotion
+  - Rural Partnership Programs
+  - Quarantine
+PUBLIC SERVICE
+  - Personnel
+    -- Equity Programs
+    -- Recruitment
+RECORDS OF THE GOVERNMENT
+RECREATION
+  - National Fitness
+  - Parks
+  - Sport
+  - Tourism
+    -- Tourism Industry Development
+    -- Tourist Event Promotion
+    -- Travel Missions
+RESEARCH
+RESEARCH AND DEVELOPMENT
+RESOURCES
+  - Energy
+  - Metals
+  - Mining
+  - Water Resources
+    -- Water Conservation Plans
+    -- Water Quality Monitoring
+    -- Water Usage Management
+    -- Waterway Management
+  - Crown Land Administration
+  - Energy Resources
+  - Land Use Planning
+  - Land Use Zoning
+  - Land Valuation
+  - Mineral Resources
+  - Pollution Emission Control
+  - Water Resources
+    -- Water Conservation Plans
+    -- Water Quality Monitoring
+    -- Water Usage Management
+    -- Waterway Management
+ROYAL COMMISSIONS
+SCIENCE
+  - Analytical Services
+  - Earth Sciences
+    -- Atmospheric Sciences
+    -- Hydrology
+    -- Mineral Exploration
+    -- Oceanography
+    -- Seismography
+  - Marine Science
+  - Meteorology
+  - Scientific Research
+    -- Botany
+    -- Genetics
+    -- Zoology
+  - Space Science
+  - Survey And Mapping
+  - Agricultural Sciences
+  - Animal And Veterinary Sciences
+  - Applied Sciences
+  - Biological Sciences
+  - Earth Sciences
+    -- Atmospheric Sciences
+    -- Hydrology
+    -- Mineral Exploration
+    -- Oceanography
+    -- Seismography
+  - Mathematical Sciences
+  - Medical And Health Sciences
+  - Physical Sciences
+  - Spatial Information Research
+SEAT OF GOVERNMENT
+SECONDARY INDUSTRIES
+SECURITY AND INTELLIGENCE
+  - External Security
+    -- International Security Liaison
+    -- Peacekeeping Forces
+  - Internal Security
+  - Wartime Security
+    -- Internees
+  - Law Enforcement
+    -- Corrective Services
+    -- Criminology
+    -- Police Administration
+    -- Protective Services
+    -- Community Policing
+    -- Criminology
+    -- Police Administration
+    -- Protective Services
+SOCIAL AND ECONOMIC RESEARCH
+SOCIAL WELFARE
+  - Community Services
+    -- Child Welfare
+    -- Accommodation Services
+    -- Community Support
+    -- Community Transport
+    -- Counselling Services
+    -- Emergency Services
+      --- Ambulance Services
+      --- Emergency Funding
+      --- Firefighting Services
+    -- Financial Assistance
+    -- Natural Disasters
+      --- Defence Forces Assistance
+      --- Disaster Recovery
+      --- Disaster Relief
+    -- Rural Community Development
+    -- Social Justice And Equity
+  - Health Insurance
+  - Pensions And Benefits
+STANDARD SETTING
+STATISTICS
+SUPREME COURT LAW
+SURVEILLANCE
+SURVEILLANCE, ELECTRONIC
+TARIFF
+TERRITORY ADMINISTRATION
+TRADE
+  - Bounties
+  - Customs
+    -- Coastal Surveillance
+    -- Excise
+    -- Inspection Services
+    -- Tariff Regulation
+  - Exports And Imports
+  - Expositions
+  - Patents And Trademarks
+  - Trade Practices
+  - Weights And Measures
+  - Customs Regulations
+  - Export Regulation
+  - Import Regulation
+  - International Trade Agreements
+  - Interstate Trade Agreements
+  - Patent Registration
+  - Trade Development Programs
+  - Trade Expositions
+  - Trademark Registration
+  - Tariff Regulation
+TRAINING
+TRANSPORT
+  - Air Transport
+    -- Air Safety
+    -- Airports
+    -- Air Transport Safety
+    -- Aircraft Standards
+    -- Airport Services
+      --- Flight Regulation
+  - Land Transport
+    -- Rail Transport
+    -- Road Safety
+    -- Road Transport
+  - Rescue Coordination
+  - Sea Transport
+    -- Lighthouses
+    -- Navigation
+    -- Port Regulation
+    -- Sea Safety
+  - Air Transport
+    -- Air Safety
+    -- Airports
+    -- Air Transport Safety
+    -- Aircraft Standards
+    -- Airport Services
+      --- Flight Regulation
+  - Freight Movement Regulation
+  - Passenger Services
+  - Rail Transport
+    -- Rail Harmonisation Standards
+    -- Rail Land Acquisition Regulation
+    -- Rail Transport Safety
+    -- Railway Maintenance
+  - Road Transport
+    -- Driving Licenses Administration
+    -- Road Surface Maintenance
+    -- Road Traffic Regulation
+    -- Road Transport Safety
+    -- Vehicle Registration
+    -- Vehicle Standards
+  - Transport Infrastructure Development
+TRANSPORT AND STORAGE
+URBAN OR REGIONAL DEVELOPMENT
+VETERANS' AFFAIRS
+  - Repatriation
+    -- Repatriation Hospitals
+WORKS
+  - Building
+  - Civil Engineering
+  - Construction
+  - Housing
+  - Public Utilities
+  - Regional Development
+  - Urban Development
+  - Waste Disposal
