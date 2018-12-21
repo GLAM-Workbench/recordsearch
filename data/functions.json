@@ -71,12 +71,6 @@
                     },
                     {
                         "term": "broadcasting standards"
-                    },
-                    {
-                        "term": "radio broadcasting"
-                    },
-                    {
-                        "term": "television broadcasting"
                     }
                 ]
             },
@@ -126,58 +120,16 @@
                 ]
             },
             {
-                "term": "broadcasting",
-                "narrower": [
-                    {
-                        "term": "radio broadcasting"
-                    },
-                    {
-                        "term": "television broadcasting"
-                    },
-                    {
-                        "term": "broadcasting standards"
-                    },
-                    {
-                        "term": "radio broadcasting"
-                    },
-                    {
-                        "term": "television broadcasting"
-                    }
-                ]
-            },
-            {
                 "term": "call centre administration"
             },
             {
                 "term": "electronic commerce"
             },
             {
-                "term": "government media",
-                "narrower": [
-                    {
-                        "term": "advertising standards"
-                    }
-                ]
-            },
-            {
                 "term": "information management standards"
             },
             {
                 "term": "media ownership regulation"
-            },
-            {
-                "term": "postal services",
-                "narrower": [
-                    {
-                        "term": "courier services"
-                    },
-                    {
-                        "term": "electronic postal services"
-                    },
-                    {
-                        "term": "retail postal services"
-                    }
-                ]
             },
             {
                 "term": "publishing"
@@ -187,26 +139,6 @@
             },
             {
                 "term": "satellite communication"
-            },
-            {
-                "term": "telecommunications",
-                "narrower": [
-                    {
-                        "term": "carriage service providers"
-                    },
-                    {
-                        "term": "carrier licensing"
-                    },
-                    {
-                        "term": "equipment licensing"
-                    },
-                    {
-                        "term": "mobile telephone services"
-                    },
-                    {
-                        "term": "telephone services"
-                    }
-                ]
             }
         ]
     },
@@ -258,23 +190,6 @@
             },
             {
                 "term": "literature funding"
-            },
-            {
-                "term": "arts development",
-                "narrower": [
-                    {
-                        "term": "film production"
-                    },
-                    {
-                        "term": "arts funding"
-                    },
-                    {
-                        "term": "arts incentive schemes"
-                    },
-                    {
-                        "term": "arts promotion"
-                    }
-                ]
             },
             {
                 "term": "collection access"
@@ -846,9 +761,6 @@
                 "term": "coronial law"
             },
             {
-                "term": "court reporting"
-            },
-            {
                 "term": "criminal law"
             },
             {
@@ -1125,23 +1037,6 @@
             },
             {
                 "term": "pollution emission control"
-            },
-            {
-                "term": "water resources",
-                "narrower": [
-                    {
-                        "term": "water conservation plans"
-                    },
-                    {
-                        "term": "water quality monitoring"
-                    },
-                    {
-                        "term": "water usage management"
-                    },
-                    {
-                        "term": "waterway management"
-                    }
-                ]
             }
         ]
     },
@@ -1213,26 +1108,6 @@
                 "term": "biological sciences"
             },
             {
-                "term": "earth sciences",
-                "narrower": [
-                    {
-                        "term": "atmospheric sciences"
-                    },
-                    {
-                        "term": "hydrology"
-                    },
-                    {
-                        "term": "mineral exploration"
-                    },
-                    {
-                        "term": "oceanography"
-                    },
-                    {
-                        "term": "seismography"
-                    }
-                ]
-            },
-            {
                 "term": "mathematical sciences"
             },
             {
@@ -1294,15 +1169,6 @@
                     },
                     {
                         "term": "community policing"
-                    },
-                    {
-                        "term": "criminology"
-                    },
-                    {
-                        "term": "police administration"
-                    },
-                    {
-                        "term": "protective services"
                     }
                 ]
             }
@@ -1532,31 +1398,6 @@
                     },
                     {
                         "term": "sea safety"
-                    }
-                ]
-            },
-            {
-                "term": "air transport",
-                "narrower": [
-                    {
-                        "term": "air safety"
-                    },
-                    {
-                        "term": "airports"
-                    },
-                    {
-                        "term": "air transport safety"
-                    },
-                    {
-                        "term": "aircraft standards"
-                    },
-                    {
-                        "term": "airport services",
-                        "narrower": [
-                            {
-                                "term": "flight regulation"
-                            }
-                        ]
                     }
                 ]
             },
