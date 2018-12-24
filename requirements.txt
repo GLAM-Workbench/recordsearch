@@ -9,3 +9,5 @@ requests==2.20.1
 robobrowser==0.5.3
 tinydb==3.12.1
 tqdm==4.28.1
+altair==2.3.0
+vega==1.4.0

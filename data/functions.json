@@ -3,59 +3,75 @@
         "term": "administrative services",
         "narrower": [
             {
-                "term": "fleet"
+                "term": "fleet",
+                "narrower": []
             },
             {
-                "term": "freight"
+                "term": "freight",
+                "narrower": []
             },
             {
-                "term": "goods and services"
+                "term": "goods and services",
+                "narrower": []
             },
             {
-                "term": "government accommodation and catering"
+                "term": "government accommodation and catering",
+                "narrower": []
             },
             {
                 "term": "property management",
                 "narrower": [
                     {
-                        "term": "acquisition"
+                        "term": "acquisition",
+                        "narrower": []
                     },
                     {
-                        "term": "leasing"
+                        "term": "leasing",
+                        "narrower": []
                     },
                     {
-                        "term": "maintenance"
+                        "term": "maintenance",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "removals"
+                "term": "removals",
+                "narrower": []
             },
             {
-                "term": "storage"
+                "term": "storage",
+                "narrower": []
             },
             {
-                "term": "valuation"
+                "term": "valuation",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "audit"
+        "term": "audit",
+        "narrower": []
     },
     {
-        "term": "australian capital territory"
+        "term": "australian capital territory",
+        "narrower": []
     },
     {
-        "term": "cabinet"
+        "term": "cabinet",
+        "narrower": []
     },
     {
-        "term": "ceremonial functions"
+        "term": "ceremonial functions",
+        "narrower": []
     },
     {
-        "term": "colonial administration"
+        "term": "colonial administration",
+        "narrower": []
     },
     {
-        "term": "committees of inquiry"
+        "term": "committees of inquiry",
+        "narrower": []
     },
     {
         "term": "communications",
@@ -64,13 +80,16 @@
                 "term": "broadcasting",
                 "narrower": [
                     {
-                        "term": "radio broadcasting"
+                        "term": "radio broadcasting",
+                        "narrower": []
                     },
                     {
-                        "term": "television broadcasting"
+                        "term": "television broadcasting",
+                        "narrower": []
                     },
                     {
-                        "term": "broadcasting standards"
+                        "term": "broadcasting standards",
+                        "narrower": []
                     }
                 ]
             },
@@ -78,7 +97,8 @@
                 "term": "government media",
                 "narrower": [
                     {
-                        "term": "advertising standards"
+                        "term": "advertising standards",
+                        "narrower": []
                     }
                 ]
             },
@@ -86,85 +106,107 @@
                 "term": "postal services",
                 "narrower": [
                     {
-                        "term": "courier services"
+                        "term": "courier services",
+                        "narrower": []
                     },
                     {
-                        "term": "electronic postal services"
+                        "term": "electronic postal services",
+                        "narrower": []
                     },
                     {
-                        "term": "retail postal services"
+                        "term": "retail postal services",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "publishing and printing"
+                "term": "publishing and printing",
+                "narrower": []
             },
             {
                 "term": "telecommunications",
                 "narrower": [
                     {
-                        "term": "carriage service providers"
+                        "term": "carriage service providers",
+                        "narrower": []
                     },
                     {
-                        "term": "carrier licensing"
+                        "term": "carrier licensing",
+                        "narrower": []
                     },
                     {
-                        "term": "equipment licensing"
+                        "term": "equipment licensing",
+                        "narrower": []
                     },
                     {
-                        "term": "mobile telephone services"
+                        "term": "mobile telephone services",
+                        "narrower": []
                     },
                     {
-                        "term": "telephone services"
+                        "term": "telephone services",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "call centre administration"
+                "term": "call centre administration",
+                "narrower": []
             },
             {
-                "term": "electronic commerce"
+                "term": "electronic commerce",
+                "narrower": []
             },
             {
-                "term": "information management standards"
+                "term": "information management standards",
+                "narrower": []
             },
             {
-                "term": "media ownership regulation"
+                "term": "media ownership regulation",
+                "narrower": []
             },
             {
-                "term": "publishing"
+                "term": "publishing",
+                "narrower": []
             },
             {
-                "term": "radio communication"
+                "term": "radio communication",
+                "narrower": []
             },
             {
-                "term": "satellite communication"
+                "term": "satellite communication",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "courts and tribunals"
+        "term": "courts and tribunals",
+        "narrower": []
     },
     {
         "term": "cultural affairs",
         "narrower": [
             {
-                "term": "archives administration"
+                "term": "archives administration",
+                "narrower": []
             },
             {
                 "term": "arts development",
                 "narrower": [
                     {
-                        "term": "film production"
+                        "term": "film production",
+                        "narrower": []
                     },
                     {
-                        "term": "arts funding"
+                        "term": "arts funding",
+                        "narrower": []
                     },
                     {
-                        "term": "arts incentive schemes"
+                        "term": "arts incentive schemes",
+                        "narrower": []
                     },
                     {
-                        "term": "arts promotion"
+                        "term": "arts promotion",
+                        "narrower": []
                     }
                 ]
             },
@@ -172,45 +214,58 @@
                 "term": "collection management",
                 "narrower": [
                     {
-                        "term": "artifact export regulation"
+                        "term": "artifact export regulation",
+                        "narrower": []
                     },
                     {
-                        "term": "collection accessioning"
+                        "term": "collection accessioning",
+                        "narrower": []
                     },
                     {
-                        "term": "collection acquisition"
+                        "term": "collection acquisition",
+                        "narrower": []
                     },
                     {
-                        "term": "collection storage"
+                        "term": "collection storage",
+                        "narrower": []
                     },
                     {
-                        "term": "preservation services"
+                        "term": "preservation services",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "literature funding"
+                "term": "literature funding",
+                "narrower": []
             },
             {
-                "term": "collection access"
+                "term": "collection access",
+                "narrower": []
             },
             {
-                "term": "collection promotion"
+                "term": "collection promotion",
+                "narrower": []
             },
             {
-                "term": "cultural awards and scholarships"
+                "term": "cultural awards and scholarships",
+                "narrower": []
             },
             {
-                "term": "cultural festivals"
+                "term": "cultural festivals",
+                "narrower": []
             },
             {
-                "term": "cultural gifts programs"
+                "term": "cultural gifts programs",
+                "narrower": []
             },
             {
-                "term": "indigenous cultural heritage"
+                "term": "indigenous cultural heritage",
+                "narrower": []
             },
             {
-                "term": "multicultural heritage promotion"
+                "term": "multicultural heritage promotion",
+                "narrower": []
             }
         ]
     },
@@ -224,7 +279,8 @@
                         "term": "defence coordination",
                         "narrower": [
                             {
-                                "term": "natural disasters"
+                                "term": "natural disasters",
+                                "narrower": []
                             }
                         ]
                     }
@@ -237,19 +293,23 @@
                         "term": "air force",
                         "narrower": [
                             {
-                                "term": "air force administration"
+                                "term": "air force administration",
+                                "narrower": []
                             },
                             {
                                 "term": "air force commands",
                                 "narrower": [
                                     {
-                                        "term": "air operations"
+                                        "term": "air operations",
+                                        "narrower": []
                                     },
                                     {
-                                        "term": "logistics (air force)"
+                                        "term": "logistics (air force)",
+                                        "narrower": []
                                     },
                                     {
-                                        "term": "training (air force)"
+                                        "term": "training (air force)",
+                                        "narrower": []
                                     }
                                 ]
                             }
@@ -259,54 +319,65 @@
                         "term": "army",
                         "narrower": [
                             {
-                                "term": "army administration"
+                                "term": "army administration",
+                                "narrower": []
                             },
                             {
                                 "term": "army commands",
                                 "narrower": [
                                     {
-                                        "term": "field force (army)"
+                                        "term": "field force (army)",
+                                        "narrower": []
                                     },
                                     {
-                                        "term": "logistics (army)"
+                                        "term": "logistics (army)",
+                                        "narrower": []
                                     },
                                     {
-                                        "term": "training (army)"
+                                        "term": "training (army)",
+                                        "narrower": []
                                     }
                                 ]
                             }
                         ]
                     },
                     {
-                        "term": "courts martial"
+                        "term": "courts martial",
+                        "narrower": []
                     },
                     {
-                        "term": "defence service home schemes"
+                        "term": "defence service home schemes",
+                        "narrower": []
                     },
                     {
-                        "term": "logistics (defence)"
+                        "term": "logistics (defence)",
+                        "narrower": []
                     },
                     {
                         "term": "navy",
                         "narrower": [
                             {
-                                "term": "navy administration"
+                                "term": "navy administration",
+                                "narrower": []
                             },
                             {
                                 "term": "navy commands",
                                 "narrower": [
                                     {
-                                        "term": "maritime commands (navy)"
+                                        "term": "maritime commands (navy)",
+                                        "narrower": []
                                     },
                                     {
-                                        "term": "navy support"
+                                        "term": "navy support",
+                                        "narrower": []
                                     }
                                 ]
                             }
                         ]
                     },
                     {
-                        "term": "prisoners of war"
+                        "term": "prisoners of war",
+                        "narrower": []
                     }
                 ]
             },
@@ -314,48 +385,61 @@
                 "term": "defence industries",
                 "narrower": [
                     {
-                        "term": "munitions"
+                        "term": "munitions",
+                        "narrower": []
                     },
                     {
-                        "term": "ordnance"
+                        "term": "ordnance",
+                        "narrower": []
                     },
                     {
-                        "term": "shipbuilding"
+                        "term": "shipbuilding",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "defence intelligence"
+                "term": "defence intelligence",
+                "narrower": []
             },
             {
-                "term": "defence research"
+                "term": "defence research",
+                "narrower": []
             },
             {
-                "term": "australian defence forces (adf)"
+                "term": "australian defence forces (adf)",
+                "narrower": []
             },
             {
-                "term": "defence estate management"
+                "term": "defence estate management",
+                "narrower": []
             },
             {
-                "term": "defence force careers"
+                "term": "defence force careers",
+                "narrower": []
             },
             {
-                "term": "emergency management"
+                "term": "emergency management",
+                "narrower": []
             },
             {
-                "term": "military operations"
+                "term": "military operations",
+                "narrower": []
             },
             {
-                "term": "strategic development"
+                "term": "strategic development",
+                "narrower": []
             },
             {
-                "term": "strategic policy"
+                "term": "strategic policy",
+                "narrower": []
             },
             {
                 "term": "strategic support",
                 "narrower": [
                     {
-                        "term": "logistics"
+                        "term": "logistics",
+                        "narrower": []
                     }
                 ]
             }
@@ -365,22 +449,28 @@
         "term": "education",
         "narrower": [
             {
-                "term": "curriculum development"
+                "term": "curriculum development",
+                "narrower": []
             },
             {
-                "term": "preschool education"
+                "term": "preschool education",
+                "narrower": []
             },
             {
-                "term": "primary education"
+                "term": "primary education",
+                "narrower": []
             },
             {
-                "term": "secondary education"
+                "term": "secondary education",
+                "narrower": []
             },
             {
-                "term": "student assistance"
+                "term": "student assistance",
+                "narrower": []
             },
             {
-                "term": "tertiary education"
+                "term": "tertiary education",
+                "narrower": []
             }
         ]
     },
@@ -388,13 +478,16 @@
         "term": "electoral matters",
         "narrower": [
             {
-                "term": "declaration of interests"
+                "term": "declaration of interests",
+                "narrower": []
             },
             {
-                "term": "election campaigning"
+                "term": "election campaigning",
+                "narrower": []
             },
             {
-                "term": "electoral boundary assessment"
+                "term": "electoral boundary assessment",
+                "narrower": []
             }
         ]
     },
@@ -402,46 +495,60 @@
         "term": "environment",
         "narrower": [
             {
-                "term": "conservation"
+                "term": "conservation",
+                "narrower": []
             },
             {
-                "term": "environmental monitoring"
+                "term": "environmental monitoring",
+                "narrower": []
             },
             {
-                "term": "national heritage"
+                "term": "national heritage",
+                "narrower": []
             },
             {
-                "term": "national parks"
+                "term": "national parks",
+                "narrower": []
             },
             {
-                "term": "built environment"
+                "term": "built environment",
+                "narrower": []
             },
             {
-                "term": "conservation programs"
+                "term": "conservation programs",
+                "narrower": []
             },
             {
-                "term": "environmental impact assessment"
+                "term": "environmental impact assessment",
+                "narrower": []
             },
             {
-                "term": "historic relic protection"
+                "term": "historic relic protection",
+                "narrower": []
             },
             {
-                "term": "indigenous heritage conservation"
+                "term": "indigenous heritage conservation",
+                "narrower": []
             },
             {
-                "term": "marine life protection programs"
+                "term": "marine life protection programs",
+                "narrower": []
             },
             {
-                "term": "natural heritage protection"
+                "term": "natural heritage protection",
+                "narrower": []
             },
             {
-                "term": "oceans governance"
+                "term": "oceans governance",
+                "narrower": []
             },
             {
-                "term": "pollutant prevention programs"
+                "term": "pollutant prevention programs",
+                "narrower": []
             },
             {
-                "term": "world heritage listings"
+                "term": "world heritage listings",
+                "narrower": []
             }
         ]
     },
@@ -449,57 +556,72 @@
         "term": "financial matters",
         "narrower": [
             {
-                "term": "banking"
+                "term": "banking",
+                "narrower": []
             },
             {
-                "term": "commonwealth state relations"
+                "term": "commonwealth state relations",
+                "narrower": []
             },
             {
-                "term": "corporate affairs"
+                "term": "corporate affairs",
+                "narrower": []
             },
             {
                 "term": "currency",
                 "narrower": [
                     {
-                        "term": "counterfeiting"
+                        "term": "counterfeiting",
+                        "narrower": []
                     },
                     {
-                        "term": "exchange rates"
+                        "term": "exchange rates",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "foreign investment control"
+                "term": "foreign investment control",
+                "narrower": []
             },
             {
-                "term": "home savings schemes"
+                "term": "home savings schemes",
+                "narrower": []
             },
             {
-                "term": "insurance"
+                "term": "insurance",
+                "narrower": []
             },
             {
-                "term": "market regulation"
+                "term": "market regulation",
+                "narrower": []
             },
             {
-                "term": "public borrowing"
+                "term": "public borrowing",
+                "narrower": []
             },
             {
-                "term": "rationing and price control"
+                "term": "rationing and price control",
+                "narrower": []
             },
             {
-                "term": "superannuation"
+                "term": "superannuation",
+                "narrower": []
             },
             {
                 "term": "taxation",
                 "narrower": [
                     {
-                        "term": "income assessment"
+                        "term": "income assessment",
+                        "narrower": []
                     },
                     {
-                        "term": "revenue raising"
+                        "term": "revenue raising",
+                        "narrower": []
                     },
                     {
-                        "term": "taxation compliance"
+                        "term": "taxation compliance",
+                        "narrower": []
                     }
                 ]
             }
@@ -512,7 +634,8 @@
                 "term": "government representation overseas",
                 "narrower": [
                     {
-                        "term": "extraditions"
+                        "term": "extraditions",
+                        "narrower": []
                     }
                 ]
             },
@@ -520,49 +643,61 @@
                 "term": "international relations",
                 "narrower": [
                     {
-                        "term": "consular services"
+                        "term": "consular services",
+                        "narrower": []
                     },
                     {
-                        "term": "diplomatic missions"
+                        "term": "diplomatic missions",
+                        "narrower": []
                     },
                     {
-                        "term": "international affairs"
+                        "term": "international affairs",
+                        "narrower": []
                     },
                     {
-                        "term": "international liaison"
+                        "term": "international liaison",
+                        "narrower": []
                     },
                     {
-                        "term": "international treaty participation"
+                        "term": "international treaty participation",
+                        "narrower": []
                     },
                     {
                         "term": "overseas aid programs",
                         "narrower": [
                             {
-                                "term": "development assistance programs"
+                                "term": "development assistance programs",
+                                "narrower": []
                             },
                             {
-                                "term": "overseas student scholarship programs"
+                                "term": "overseas student scholarship programs",
+                                "narrower": []
                             }
                         ]
                     },
                     {
-                        "term": "overseas promotion"
+                        "term": "overseas promotion",
+                        "narrower": []
                     },
                     {
-                        "term": "passport services"
+                        "term": "passport services",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "passports"
+                "term": "passports",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "governor general"
+        "term": "governor general",
+        "narrower": []
     },
     {
-        "term": "grants administration"
+        "term": "grants administration",
+        "narrower": []
     },
     {
         "term": "health",
@@ -571,19 +706,24 @@
                 "term": "health services",
                 "narrower": [
                     {
-                        "term": "aged persons services"
+                        "term": "aged persons services",
+                        "narrower": []
                     },
                     {
-                        "term": "dental services"
+                        "term": "dental services",
+                        "narrower": []
                     },
                     {
-                        "term": "disability services"
+                        "term": "disability services",
+                        "narrower": []
                     },
                     {
-                        "term": "hearing services"
+                        "term": "hearing services",
+                        "narrower": []
                     },
                     {
-                        "term": "nursing services"
+                        "term": "nursing services",
+                        "narrower": []
                     }
                 ]
             },
@@ -591,7 +731,8 @@
                 "term": "hospitals and clinics",
                 "narrower": [
                     {
-                        "term": "pathology"
+                        "term": "pathology",
+                        "narrower": []
                     }
                 ]
             },
@@ -599,47 +740,59 @@
                 "term": "medical research",
                 "narrower": [
                     {
-                        "term": "ethical compliance"
+                        "term": "ethical compliance",
+                        "narrower": []
                     },
                     {
-                        "term": "medical aids regulation"
+                        "term": "medical aids regulation",
+                        "narrower": []
                     },
                     {
-                        "term": "medical research funding"
+                        "term": "medical research funding",
+                        "narrower": []
                     },
                     {
-                        "term": "national referral laboratory services"
+                        "term": "national referral laboratory services",
+                        "narrower": []
                     },
                     {
-                        "term": "population-based research"
+                        "term": "population-based research",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "pharmaceuticals and medical aids"
+                "term": "pharmaceuticals and medical aids",
+                "narrower": []
             },
             {
-                "term": "quarantine"
+                "term": "quarantine",
+                "narrower": []
             },
             {
-                "term": "rehabilitation"
+                "term": "rehabilitation",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "house of representatives committees"
+        "term": "house of representatives committees",
+        "narrower": []
     },
     {
         "term": "indigenous affairs",
         "narrower": [
             {
-                "term": "indigenous enterprises"
+                "term": "indigenous enterprises",
+                "narrower": []
             },
             {
-                "term": "indigenous land rights"
+                "term": "indigenous land rights",
+                "narrower": []
             },
             {
-                "term": "indigenous settlements"
+                "term": "indigenous settlements",
+                "narrower": []
             }
         ]
     },
@@ -647,162 +800,208 @@
         "term": "industrial relations",
         "narrower": [
             {
-                "term": "arbitration"
+                "term": "arbitration",
+                "narrower": []
             },
             {
-                "term": "compensation schemes"
+                "term": "compensation schemes",
+                "narrower": []
             },
             {
                 "term": "employment",
                 "narrower": [
                     {
-                        "term": "labour market programs"
+                        "term": "labour market programs",
+                        "narrower": []
                     },
                     {
-                        "term": "trade skills assessment"
+                        "term": "trade skills assessment",
+                        "narrower": []
                     },
                     {
-                        "term": "vocational training schemes"
+                        "term": "vocational training schemes",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "national service"
+                "term": "national service",
+                "narrower": []
             },
             {
-                "term": "occupational health and safety"
+                "term": "occupational health and safety",
+                "narrower": []
             },
             {
-                "term": "trade union training"
+                "term": "trade union training",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "industries"
+        "term": "industries",
+        "narrower": []
     },
     {
-        "term": "investigation"
+        "term": "investigation",
+        "narrower": []
     },
     {
         "term": "justice administration",
         "narrower": [
             {
-                "term": "court reporting"
+                "term": "court reporting",
+                "narrower": []
             },
             {
-                "term": "family law"
+                "term": "family law",
+                "narrower": []
             },
             {
-                "term": "federal law"
+                "term": "federal law",
+                "narrower": []
             },
             {
-                "term": "supreme law"
+                "term": "supreme law",
+                "narrower": []
             },
             {
                 "term": "administrative law",
                 "narrower": [
                     {
-                        "term": "bankruptcy"
+                        "term": "bankruptcy",
+                        "narrower": []
                     },
                     {
-                        "term": "censorship"
+                        "term": "censorship",
+                        "narrower": []
                     },
                     {
-                        "term": "consumer affairs"
+                        "term": "consumer affairs",
+                        "narrower": []
                     },
                     {
-                        "term": "copyright"
+                        "term": "copyright",
+                        "narrower": []
                     },
                     {
-                        "term": "human rights"
+                        "term": "human rights",
+                        "narrower": []
                     },
                     {
-                        "term": "legal aid"
+                        "term": "legal aid",
+                        "narrower": []
                     },
                     {
-                        "term": "legal services"
+                        "term": "legal services",
+                        "narrower": []
                     },
                     {
-                        "term": "ombudsman"
+                        "term": "ombudsman",
+                        "narrower": []
                     },
                     {
-                        "term": "administrative decision appeal"
+                        "term": "administrative decision appeal",
+                        "narrower": []
                     },
                     {
-                        "term": "administrative decision review"
+                        "term": "administrative decision review",
+                        "narrower": []
                     },
                     {
-                        "term": "censorship standards"
+                        "term": "censorship standards",
+                        "narrower": []
                     },
                     {
-                        "term": "copyright regulation"
+                        "term": "copyright regulation",
+                        "narrower": []
                     },
                     {
-                        "term": "recordkeeping standards"
+                        "term": "recordkeeping standards",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "associations and corporate law"
+                "term": "associations and corporate law",
+                "narrower": []
             },
             {
-                "term": "civil law"
+                "term": "civil law",
+                "narrower": []
             },
             {
-                "term": "commissions of inquiry"
+                "term": "commissions of inquiry",
+                "narrower": []
             },
             {
-                "term": "coronial law"
+                "term": "coronial law",
+                "narrower": []
             },
             {
-                "term": "criminal law"
+                "term": "criminal law",
+                "narrower": []
             },
             {
-                "term": "human rights obligations"
+                "term": "human rights obligations",
+                "narrower": []
             },
             {
-                "term": "juvenile justice"
+                "term": "juvenile justice",
+                "narrower": []
             },
             {
-                "term": "legal aid services"
+                "term": "legal aid services",
+                "narrower": []
             },
             {
-                "term": "local laws and ordinances"
+                "term": "local laws and ordinances",
+                "narrower": []
             },
             {
-                "term": "native title claims"
+                "term": "native title claims",
+                "narrower": []
             },
             {
-                "term": "privacy guideline monitoring"
+                "term": "privacy guideline monitoring",
+                "narrower": []
             },
             {
-                "term": "prosecution services"
+                "term": "prosecution services",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "land use"
+        "term": "land use",
+        "narrower": []
     },
     {
-        "term": "legal"
+        "term": "legal",
+        "narrower": []
     },
     {
-        "term": "legislation"
+        "term": "legislation",
+        "narrower": []
     },
     {
-        "term": "loans"
+        "term": "loans",
+        "narrower": []
     },
     {
-        "term": "marketing"
+        "term": "marketing",
+        "narrower": []
     },
     {
         "term": "memorials",
         "narrower": [
             {
-                "term": "historic memorials"
+                "term": "historic memorials",
+                "narrower": []
             },
             {
-                "term": "war memorials"
+                "term": "war memorials",
+                "narrower": []
             }
         ]
     },
@@ -813,75 +1012,94 @@
                 "term": "citizenship",
                 "narrower": [
                     {
-                        "term": "naturalisation assessment"
+                        "term": "naturalisation assessment",
+                        "narrower": []
                     },
                     {
-                        "term": "presentation arrangements"
+                        "term": "presentation arrangements",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "deportation"
+                "term": "deportation",
+                "narrower": []
             },
             {
                 "term": "migrant services",
                 "narrower": [
                     {
-                        "term": "interpreter services"
+                        "term": "interpreter services",
+                        "narrower": []
                     },
                     {
-                        "term": "language services"
+                        "term": "language services",
+                        "narrower": []
                     },
                     {
-                        "term": "migrant accommodation services"
+                        "term": "migrant accommodation services",
+                        "narrower": []
                     },
                     {
-                        "term": "migrant settlements programs"
+                        "term": "migrant settlements programs",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "multiculturalism"
+                "term": "multiculturalism",
+                "narrower": []
             },
             {
-                "term": "passenger entry control"
+                "term": "passenger entry control",
+                "narrower": []
             },
             {
-                "term": "refugees"
+                "term": "refugees",
+                "narrower": []
             },
             {
-                "term": "visas"
+                "term": "visas",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "national events"
+        "term": "national events",
+        "narrower": []
     },
     {
-        "term": "national land use"
+        "term": "national land use",
+        "narrower": []
     },
     {
-        "term": "parliamentary committees"
+        "term": "parliamentary committees",
+        "narrower": []
     },
     {
         "term": "parliamentary matters",
         "narrower": [
             {
-                "term": "parliamentary chamber administration"
+                "term": "parliamentary chamber administration",
+                "narrower": []
             },
             {
-                "term": "parliamentary legislation"
+                "term": "parliamentary legislation",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "planning"
+        "term": "planning",
+        "narrower": []
     },
     {
-        "term": "police station"
+        "term": "police station",
+        "narrower": []
     },
     {
-        "term": "port authorities"
+        "term": "port authorities",
+        "narrower": []
     },
     {
         "term": "primary industries",
@@ -890,42 +1108,54 @@
                 "term": "agriculture",
                 "narrower": [
                     {
-                        "term": "horticulture"
+                        "term": "horticulture",
+                        "narrower": []
                     },
                     {
-                        "term": "pastoral"
+                        "term": "pastoral",
+                        "narrower": []
                     },
                     {
-                        "term": "viticulture"
+                        "term": "viticulture",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "fisheries regulation"
+                "term": "fisheries regulation",
+                "narrower": []
             },
             {
-                "term": "forestry regulation"
+                "term": "forestry regulation",
+                "narrower": []
             },
             {
-                "term": "chemical and pesticide regulation"
+                "term": "chemical and pesticide regulation",
+                "narrower": []
             },
             {
-                "term": "climate information services"
+                "term": "climate information services",
+                "narrower": []
             },
             {
-                "term": "marine and rural regulation"
+                "term": "marine and rural regulation",
+                "narrower": []
             },
             {
-                "term": "marine and rural support"
+                "term": "marine and rural support",
+                "narrower": []
             },
             {
-                "term": "rural field day promotion"
+                "term": "rural field day promotion",
+                "narrower": []
             },
             {
-                "term": "rural partnership programs"
+                "term": "rural partnership programs",
+                "narrower": []
             },
             {
-                "term": "quarantine"
+                "term": "quarantine",
+                "narrower": []
             }
         ]
     },
@@ -936,190 +1166,239 @@
                 "term": "personnel",
                 "narrower": [
                     {
-                        "term": "equity programs"
+                        "term": "equity programs",
+                        "narrower": []
                     },
                     {
-                        "term": "recruitment"
+                        "term": "recruitment",
+                        "narrower": []
                     }
                 ]
             }
         ]
     },
     {
-        "term": "records of the government"
+        "term": "records of the government",
+        "narrower": []
     },
     {
         "term": "recreation",
         "narrower": [
             {
-                "term": "national fitness"
+                "term": "national fitness",
+                "narrower": []
             },
             {
-                "term": "parks"
+                "term": "parks",
+                "narrower": []
             },
             {
-                "term": "sport"
+                "term": "sport",
+                "narrower": []
             },
             {
                 "term": "tourism",
                 "narrower": [
                     {
-                        "term": "tourism industry development"
+                        "term": "tourism industry development",
+                        "narrower": []
                     },
                     {
-                        "term": "tourist event promotion"
+                        "term": "tourist event promotion",
+                        "narrower": []
                     },
                     {
-                        "term": "travel missions"
+                        "term": "travel missions",
+                        "narrower": []
                     }
                 ]
             }
         ]
     },
     {
-        "term": "research"
+        "term": "research",
+        "narrower": []
     },
     {
-        "term": "research and development"
+        "term": "research and development",
+        "narrower": []
     },
     {
         "term": "resources",
         "narrower": [
             {
-                "term": "energy"
+                "term": "energy",
+                "narrower": []
             },
             {
-                "term": "metals"
+                "term": "metals",
+                "narrower": []
             },
             {
-                "term": "mining"
+                "term": "mining",
+                "narrower": []
             },
             {
                 "term": "water resources",
                 "narrower": [
                     {
-                        "term": "water conservation plans"
+                        "term": "water conservation plans",
+                        "narrower": []
                     },
                     {
-                        "term": "water quality monitoring"
+                        "term": "water quality monitoring",
+                        "narrower": []
                     },
                     {
-                        "term": "water usage management"
+                        "term": "water usage management",
+                        "narrower": []
                     },
                     {
-                        "term": "waterway management"
+                        "term": "waterway management",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "crown land administration"
+                "term": "crown land administration",
+                "narrower": []
             },
             {
-                "term": "energy resources"
+                "term": "energy resources",
+                "narrower": []
             },
             {
-                "term": "land use planning"
+                "term": "land use planning",
+                "narrower": []
             },
             {
-                "term": "land use zoning"
+                "term": "land use zoning",
+                "narrower": []
             },
             {
-                "term": "land valuation"
+                "term": "land valuation",
+                "narrower": []
             },
             {
-                "term": "mineral resources"
+                "term": "mineral resources",
+                "narrower": []
             },
             {
-                "term": "pollution emission control"
+                "term": "pollution emission control",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "royal commissions"
+        "term": "royal commissions",
+        "narrower": []
     },
     {
         "term": "science",
         "narrower": [
             {
-                "term": "analytical services"
+                "term": "analytical services",
+                "narrower": []
             },
             {
                 "term": "earth sciences",
                 "narrower": [
                     {
-                        "term": "atmospheric sciences"
+                        "term": "atmospheric sciences",
+                        "narrower": []
                     },
                     {
-                        "term": "hydrology"
+                        "term": "hydrology",
+                        "narrower": []
                     },
                     {
-                        "term": "mineral exploration"
+                        "term": "mineral exploration",
+                        "narrower": []
                     },
                     {
-                        "term": "oceanography"
+                        "term": "oceanography",
+                        "narrower": []
                     },
                     {
-                        "term": "seismography"
+                        "term": "seismography",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "marine science"
+                "term": "marine science",
+                "narrower": []
             },
             {
-                "term": "meteorology"
+                "term": "meteorology",
+                "narrower": []
             },
             {
                 "term": "scientific research",
                 "narrower": [
                     {
-                        "term": "botany"
+                        "term": "botany",
+                        "narrower": []
                     },
                     {
-                        "term": "genetics"
+                        "term": "genetics",
+                        "narrower": []
                     },
                     {
-                        "term": "zoology"
+                        "term": "zoology",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "space science"
+                "term": "space science",
+                "narrower": []
             },
             {
-                "term": "survey and mapping"
+                "term": "survey and mapping",
+                "narrower": []
             },
             {
-                "term": "agricultural sciences"
+                "term": "agricultural sciences",
+                "narrower": []
             },
             {
-                "term": "animal and veterinary sciences"
+                "term": "animal and veterinary sciences",
+                "narrower": []
             },
             {
-                "term": "applied sciences"
+                "term": "applied sciences",
+                "narrower": []
             },
             {
-                "term": "biological sciences"
+                "term": "biological sciences",
+                "narrower": []
             },
             {
-                "term": "mathematical sciences"
+                "term": "mathematical sciences",
+                "narrower": []
             },
             {
-                "term": "medical and health sciences"
+                "term": "medical and health sciences",
+                "narrower": []
             },
             {
-                "term": "physical sciences"
+                "term": "physical sciences",
+                "narrower": []
             },
             {
-                "term": "spatial information research"
+                "term": "spatial information research",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "seat of government"
+        "term": "seat of government",
+        "narrower": []
     },
     {
-        "term": "secondary industries"
+        "term": "secondary industries",
+        "narrower": []
     },
     {
         "term": "security and intelligence",
@@ -1128,21 +1407,25 @@
                 "term": "external security",
                 "narrower": [
                     {
-                        "term": "international security liaison"
+                        "term": "international security liaison",
+                        "narrower": []
                     },
                     {
-                        "term": "peacekeeping forces"
+                        "term": "peacekeeping forces",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "internal security"
+                "term": "internal security",
+                "narrower": []
             },
             {
                 "term": "wartime security",
                 "narrower": [
                     {
-                        "term": "internees"
+                        "term": "internees",
+                        "narrower": []
                     }
                 ]
             },
@@ -1150,26 +1433,32 @@
                 "term": "law enforcement",
                 "narrower": [
                     {
-                        "term": "corrective services"
+                        "term": "corrective services",
+                        "narrower": []
                     },
                     {
-                        "term": "criminology"
+                        "term": "criminology",
+                        "narrower": []
                     },
                     {
-                        "term": "police administration"
+                        "term": "police administration",
+                        "narrower": []
                     },
                     {
-                        "term": "protective services"
+                        "term": "protective services",
+                        "narrower": []
                     },
                     {
-                        "term": "community policing"
+                        "term": "community policing",
+                        "narrower": []
                     }
                 ]
             }
         ]
     },
     {
-        "term": "social and economic research"
+        "term": "social and economic research",
+        "narrower": []
     },
     {
         "term": "social welfare",
@@ -1178,157 +1467,200 @@
                 "term": "community services",
                 "narrower": [
                     {
-                        "term": "child welfare"
+                        "term": "child welfare",
+                        "narrower": []
                     },
                     {
-                        "term": "accommodation services"
+                        "term": "accommodation services",
+                        "narrower": []
                     },
                     {
-                        "term": "community support"
+                        "term": "community support",
+                        "narrower": []
                     },
                     {
-                        "term": "community transport"
+                        "term": "community transport",
+                        "narrower": []
                     },
                     {
-                        "term": "counselling services"
+                        "term": "counselling services",
+                        "narrower": []
                     },
                     {
                         "term": "emergency services",
                         "narrower": [
                             {
-                                "term": "ambulance services"
+                                "term": "ambulance services",
+                                "narrower": []
                             },
                             {
-                                "term": "emergency funding"
+                                "term": "emergency funding",
+                                "narrower": []
                             },
                             {
-                                "term": "firefighting services"
+                                "term": "firefighting services",
+                                "narrower": []
                             }
                         ]
                     },
                     {
-                        "term": "financial assistance"
+                        "term": "financial assistance",
+                        "narrower": []
                     },
                     {
                         "term": "natural disasters",
                         "narrower": [
                             {
-                                "term": "defence forces assistance"
+                                "term": "defence forces assistance",
+                                "narrower": []
                             },
                             {
-                                "term": "disaster recovery"
+                                "term": "disaster recovery",
+                                "narrower": []
                             },
                             {
-                                "term": "disaster relief"
+                                "term": "disaster relief",
+                                "narrower": []
                             }
                         ]
                     },
                     {
-                        "term": "rural community development"
+                        "term": "rural community development",
+                        "narrower": []
                     },
                     {
-                        "term": "social justice and equity"
+                        "term": "social justice and equity",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "health insurance"
+                "term": "health insurance",
+                "narrower": []
             },
             {
-                "term": "pensions and benefits"
+                "term": "pensions and benefits",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "standard setting"
+        "term": "standard setting",
+        "narrower": []
     },
     {
-        "term": "statistics"
+        "term": "statistics",
+        "narrower": []
     },
     {
-        "term": "supreme court law"
+        "term": "supreme court law",
+        "narrower": []
     },
     {
-        "term": "surveillance"
+        "term": "surveillance",
+        "narrower": []
     },
     {
-        "term": "surveillance, electronic"
+        "term": "surveillance, electronic",
+        "narrower": []
     },
     {
-        "term": "tariff"
+        "term": "tariff",
+        "narrower": []
     },
     {
-        "term": "territory administration"
+        "term": "territory administration",
+        "narrower": []
     },
     {
         "term": "trade",
         "narrower": [
             {
-                "term": "bounties"
+                "term": "bounties",
+                "narrower": []
             },
             {
                 "term": "customs",
                 "narrower": [
                     {
-                        "term": "coastal surveillance"
+                        "term": "coastal surveillance",
+                        "narrower": []
                     },
                     {
-                        "term": "excise"
+                        "term": "excise",
+                        "narrower": []
                     },
                     {
-                        "term": "inspection services"
+                        "term": "inspection services",
+                        "narrower": []
                     },
                     {
-                        "term": "tariff regulation"
+                        "term": "tariff regulation",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "exports and imports"
+                "term": "exports and imports",
+                "narrower": []
             },
             {
-                "term": "expositions"
+                "term": "expositions",
+                "narrower": []
             },
             {
-                "term": "patents and trademarks"
+                "term": "patents and trademarks",
+                "narrower": []
             },
             {
-                "term": "trade practices"
+                "term": "trade practices",
+                "narrower": []
             },
             {
-                "term": "weights and measures"
+                "term": "weights and measures",
+                "narrower": []
             },
             {
-                "term": "customs regulations"
+                "term": "customs regulations",
+                "narrower": []
             },
             {
-                "term": "export regulation"
+                "term": "export regulation",
+                "narrower": []
             },
             {
-                "term": "import regulation"
+                "term": "import regulation",
+                "narrower": []
             },
             {
-                "term": "international trade agreements"
+                "term": "international trade agreements",
+                "narrower": []
             },
             {
-                "term": "interstate trade agreements"
+                "term": "interstate trade agreements",
+                "narrower": []
             },
             {
-                "term": "patent registration"
+                "term": "patent registration",
+                "narrower": []
             },
             {
-                "term": "trade development programs"
+                "term": "trade development programs",
+                "narrower": []
             },
             {
-                "term": "trade expositions"
+                "term": "trade expositions",
+                "narrower": []
             },
             {
-                "term": "trademark registration"
+                "term": "trademark registration",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "training"
+        "term": "training",
+        "narrower": []
     },
     {
         "term": "transport",
@@ -1337,22 +1669,27 @@
                 "term": "air transport",
                 "narrower": [
                     {
-                        "term": "air safety"
+                        "term": "air safety",
+                        "narrower": []
                     },
                     {
-                        "term": "airports"
+                        "term": "airports",
+                        "narrower": []
                     },
                     {
-                        "term": "air transport safety"
+                        "term": "air transport safety",
+                        "narrower": []
                     },
                     {
-                        "term": "aircraft standards"
+                        "term": "aircraft standards",
+                        "narrower": []
                     },
                     {
                         "term": "airport services",
                         "narrower": [
                             {
-                                "term": "flight regulation"
+                                "term": "flight regulation",
+                                "narrower": []
                             }
                         ]
                     }
@@ -1365,83 +1702,104 @@
                         "term": "rail transport",
                         "narrower": [
                             {
-                                "term": "rail harmonisation standards"
+                                "term": "rail harmonisation standards",
+                                "narrower": []
                             },
                             {
-                                "term": "rail land acquisition regulation"
+                                "term": "rail land acquisition regulation",
+                                "narrower": []
                             },
                             {
-                                "term": "rail transport safety"
+                                "term": "rail transport safety",
+                                "narrower": []
                             },
                             {
-                                "term": "railway maintenance"
+                                "term": "railway maintenance",
+                                "narrower": []
                             }
                         ]
                     },
                     {
-                        "term": "road safety"
+                        "term": "road safety",
+                        "narrower": []
                     },
                     {
                         "term": "road transport",
                         "narrower": [
                             {
-                                "term": "driving licenses administration"
+                                "term": "driving licenses administration",
+                                "narrower": []
                             },
                             {
-                                "term": "road surface maintenance"
+                                "term": "road surface maintenance",
+                                "narrower": []
                             },
                             {
-                                "term": "road traffic regulation"
+                                "term": "road traffic regulation",
+                                "narrower": []
                             },
                             {
-                                "term": "road transport safety"
+                                "term": "road transport safety",
+                                "narrower": []
                             },
                             {
-                                "term": "vehicle registration"
+                                "term": "vehicle registration",
+                                "narrower": []
                             },
                             {
-                                "term": "vehicle standards"
+                                "term": "vehicle standards",
+                                "narrower": []
                             }
                         ]
                     }
                 ]
             },
             {
-                "term": "rescue coordination"
+                "term": "rescue coordination",
+                "narrower": []
             },
             {
                 "term": "sea transport",
                 "narrower": [
                     {
-                        "term": "lighthouses"
+                        "term": "lighthouses",
+                        "narrower": []
                     },
                     {
-                        "term": "navigation"
+                        "term": "navigation",
+                        "narrower": []
                     },
                     {
-                        "term": "port regulation"
+                        "term": "port regulation",
+                        "narrower": []
                     },
                     {
-                        "term": "sea safety"
+                        "term": "sea safety",
+                        "narrower": []
                     }
                 ]
             },
             {
-                "term": "freight movement regulation"
+                "term": "freight movement regulation",
+                "narrower": []
             },
             {
-                "term": "passenger services"
+                "term": "passenger services",
+                "narrower": []
             },
             {
-                "term": "transport infrastructure development"
+                "term": "transport infrastructure development",
+                "narrower": []
             }
         ]
     },
     {
-        "term": "transport and storage"
+        "term": "transport and storage",
+        "narrower": []
     },
     {
-        "term": "urban or regional development"
+        "term": "urban or regional development",
+        "narrower": []
     },
     {
         "term": "veterans' affairs",
@@ -1450,7 +1808,8 @@
                 "term": "repatriation",
                 "narrower": [
                     {
-                        "term": "repatriation hospitals"
+                        "term": "repatriation hospitals",
+                        "narrower": []
                     }
                 ]
             }
@@ -1460,28 +1819,36 @@
         "term": "works",
         "narrower": [
             {
-                "term": "building"
+                "term": "building",
+                "narrower": []
             },
             {
-                "term": "civil engineering"
+                "term": "civil engineering",
+                "narrower": []
             },
             {
-                "term": "construction"
+                "term": "construction",
+                "narrower": []
             },
             {
-                "term": "housing"
+                "term": "housing",
+                "narrower": []
             },
             {
-                "term": "public utilities"
+                "term": "public utilities",
+                "narrower": []
             },
             {
-                "term": "regional development"
+                "term": "regional development",
+                "narrower": []
             },
             {
-                "term": "urban development"
+                "term": "urban development",
+                "narrower": []
             },
             {
-                "term": "waste disposal"
+                "term": "waste disposal",
+                "narrower": []
             }
         ]
     }
