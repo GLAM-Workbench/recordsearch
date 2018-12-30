@@ -1,444 +1,472 @@
 ADMINISTRATIVE SERVICES
-  - Fleet
-  - Freight
-  - Goods And Services
-  - Government Accommodation And Catering
-  - Property Management
-    -- Acquisition
-    -- Leasing
-    -- Maintenance
-  - Removals
-  - Storage
-  - Valuation
+  - government accommodation and catering
+  - fleet
+  - freight
+  - goods and services
+  - property management
+    -- acquisition
+    -- leasing
+    -- maintenance
+  - removals
+  - storage
+  - valuation
+ARTS
 AUDIT
 AUSTRALIAN CAPITAL TERRITORY
 CABINET
+CENSUS COLLECTION
 CEREMONIAL FUNCTIONS
+CIVIC INFRASTRUCTURE
+CIVIC MANAGEMENT
 COLONIAL ADMINISTRATION
 COMMITTEES OF INQUIRY
 COMMUNICATIONS
-  - Broadcasting
-    -- Radio Broadcasting
-    -- Television Broadcasting
-    -- Broadcasting Standards
-  - Government Media
-    -- Advertising Standards
-  - Postal Services
-    -- Courier Services
-    -- Electronic Postal Services
-    -- Retail Postal Services
-  - Publishing And Printing
-  - Telecommunications
-    -- Carriage Service Providers
-    -- Carrier Licensing
-    -- Equipment Licensing
-    -- Mobile Telephone Services
-    -- Telephone Services
-  - Call Centre Administration
-  - Electronic Commerce
-  - Information Management Standards
-  - Media Ownership Regulation
-  - Publishing
-  - Radio Communication
-  - Satellite Communication
+  - government media
+    -- advertising standards
+  - broadcasting
+    -- radio broadcasting
+    -- television broadcasting
+    -- broadcasting standards
+  - telecommunications
+    -- carriage service providers
+    -- carrier licensing
+    -- equipment licensing
+    -- mobile telephone services
+    -- telephone services
+  - postal services
+    -- courier services
+    -- electronic postal services
+    -- retail postal services
+  - publishing and printing
+  - call centre administration
+  - electronic commerce
+  - information management standards
+  - media ownership regulation
+  - publishing
+  - radio communication
+  - satellite communication
+COMMUNITY HEALTH SERVICES
 COURTS AND TRIBUNALS
 CULTURAL AFFAIRS
-  - Archives Administration
-  - Arts Development
-    -- Film Production
-    -- Arts Funding
-    -- Arts Incentive Schemes
-    -- Arts Promotion
-  - Collection Management
-    -- Artifact Export Regulation
-    -- Collection Accessioning
-    -- Collection Acquisition
-    -- Collection Storage
-    -- Preservation Services
-  - Literature Funding
-  - Collection Access
-  - Collection Promotion
-  - Cultural Awards And Scholarships
-  - Cultural Festivals
-  - Cultural Gifts Programs
-  - Indigenous Cultural Heritage
-  - Multicultural Heritage Promotion
+  - archives administration
+  - arts development
+    -- film production
+    -- arts funding
+    -- arts incentive schemes
+    -- arts promotion
+  - collection management
+    -- artifact export regulation
+    -- collection accessioning
+    -- collection acquisition
+    -- collection storage
+    -- preservation services
+  - literature funding
+  - collection access
+  - collection promotion
+  - cultural awards and scholarships
+  - cultural festivals
+  - cultural gifts programs
+  - indigenous cultural heritage
+  - multicultural heritage promotion
 DEFENCE
-  - Defence Administration
-    -- Defence Coordination
-      --- Natural Disasters
-  - Defence Forces
-    -- Air Force
-      --- Air Force Administration
-      --- Air Force Commands
-        ---- Air Operations
-        ---- Logistics (Air Force)
-        ---- Training (Air Force)
-    -- Army
-      --- Army Administration
-      --- Army Commands
-        ---- Field Force (Army)
-        ---- Logistics (Army)
-        ---- Training (Army)
-    -- Courts Martial
-    -- Defence Service Home Schemes
-    -- Logistics (Defence)
-    -- Navy
-      --- Navy Administration
-      --- Navy Commands
-        ---- Maritime Commands (Navy)
-        ---- Navy Support
-    -- Prisoners Of War
-  - Defence Industries
-    -- Munitions
-    -- Ordnance
-    -- Shipbuilding
-  - Defence Intelligence
-  - Defence Research
-  - Australian Defence Forces (Adf)
-  - Defence Estate Management
-  - Defence Force Careers
-  - Emergency Management
-  - Military Operations
-  - Strategic Development
-  - Strategic Policy
-  - Strategic Support
-    -- Logistics
+  - defence intelligence
+  - defence forces
+    -- air force
+      --- air force administration
+      --- air force commands
+        ---- air operations
+        ---- logistics (air force)
+        ---- training (air force)
+    -- army
+      --- army commands
+        ---- field force (army)
+        ---- logistics (army)
+        ---- training (army)
+      --- army administration
+    -- courts martial
+    -- defence service home schemes
+    -- logistics (defence)
+    -- navy
+      --- navy commands
+        ---- maritime commands (navy)
+        ---- navy support
+      --- navy administration
+    -- prisoners of war
+  - defence industries
+    -- munitions
+    -- ordnance
+    -- shipbuilding
+  - australian defence forces (adf)
+  - defence research
+  - defence administration
+    -- defence coordination
+  - defence estate management
+  - defence force careers
+  - emergency management
+  - military operations
+  - strategic development
+  - strategic policy
+  - strategic support
+    -- logistics
+EARLY CHILDHOOD EDUCATION
 EDUCATION
-  - Curriculum Development
-  - Preschool Education
-  - Primary Education
-  - Secondary Education
-  - Student Assistance
-  - Tertiary Education
+  - student assistance
+  - curriculum development
+  - preschool education
+  - primary education
+  - secondary education
+  - tertiary education
+EDUCATION AND TRAINING
 ELECTORAL MATTERS
-  - Declaration Of Interests
-  - Election Campaigning
-  - Electoral Boundary Assessment
+  - declaration of interests
+  - election campaigning
+  - electoral boundary assessment
+EMPLOYMENT SERVICES
 ENVIRONMENT
-  - Conservation
-  - Environmental Monitoring
-  - National Heritage
-  - National Parks
-  - Built Environment
-  - Conservation Programs
-  - Environmental Impact Assessment
-  - Historic Relic Protection
-  - Indigenous Heritage Conservation
-  - Marine Life Protection Programs
-  - Natural Heritage Protection
-  - Oceans Governance
-  - Pollutant Prevention Programs
-  - World Heritage Listings
+  - conservation
+  - environmental monitoring
+  - national heritage
+  - national parks
+  - built environment
+  - conservation programs
+  - environmental impact assessment
+  - historic relic protection
+  - indigenous heritage conservation
+  - marine life protection programs
+  - natural heritage protection
+  - oceans governance
+  - pollutant prevention programs
+  - world heritage listings
+FINANCE MANAGEMENT
 FINANCIAL MATTERS
-  - Banking
-  - Commonwealth State Relations
-  - Corporate Affairs
-  - Currency
-    -- Counterfeiting
-    -- Exchange Rates
-  - Foreign Investment Control
-  - Home Savings Schemes
-  - Insurance
-  - Market Regulation
-  - Public Borrowing
-  - Rationing And Price Control
-  - Superannuation
-  - Taxation
-    -- Income Assessment
-    -- Revenue Raising
-    -- Taxation Compliance
+  - currency
+    -- counterfeiting
+    -- exchange rates
+  - banking
+  - commonwealth state relations
+  - corporate affairs
+  - foreign investment control
+  - home savings schemes
+  - insurance
+  - market regulation
+  - public borrowing
+  - rationing and price control
+  - superannuation
+  - taxation
+    -- income assessment
+    -- revenue raising
+    -- taxation compliance
+FISCAL POLICY
 FOREIGN POLICY
-  - Government Representation Overseas
-    -- Extraditions
-  - International Relations
-    -- Consular Services
-    -- Diplomatic Missions
-    -- International Affairs
-    -- International Liaison
-    -- International Treaty Participation
-    -- Overseas Aid Programs
-      --- Development Assistance Programs
-      --- Overseas Student Scholarship Programs
-    -- Overseas Promotion
-    -- Passport Services
-  - Passports
+  - government representation overseas
+    -- extraditions
+  - international relations
+    -- overseas aid programs
+      --- development assistance programs
+      --- overseas student scholarship programs
+    -- consular services
+    -- diplomatic missions
+    -- international affairs
+    -- international liaison
+    -- international treaty participation
+    -- overseas promotion
+    -- passport services
+  - passports
+GOVERNANCE
 GOVERNOR GENERAL
 GRANTS ADMINISTRATION
 HEALTH
-  - Health Services
-    -- Aged Persons Services
-    -- Dental Services
-    -- Disability Services
-    -- Hearing Services
-    -- Nursing Services
-  - Hospitals And Clinics
-    -- Pathology
-  - Medical Research
-    -- Ethical Compliance
-    -- Medical Aids Regulation
-    -- Medical Research Funding
-    -- National Referral Laboratory Services
-    -- Population-Based Research
-  - Pharmaceuticals And Medical Aids
-  - Quarantine
-  - Rehabilitation
+  - hospitals and clinics
+    -- pathology
+  - health services
+    -- dental services
+    -- disability services
+    -- aged persons services
+    -- hearing services
+    -- nursing services
+  - pharmaceuticals and medical aids
+  - medical research
+    -- ethical compliance
+    -- medical aids regulation
+    -- medical research funding
+    -- national referral laboratory services
+    -- population-based research
+  - rehabilitation
+HEALTH CARE
 HOUSE OF REPRESENTATIVES COMMITTEES
+IMMIGRATION
 INDIGENOUS AFFAIRS
-  - Indigenous Enterprises
-  - Indigenous Land Rights
-  - Indigenous Settlements
+  - indigenous enterprises
+  - indigenous land rights
+  - indigenous settlements
 INDUSTRIAL RELATIONS
-  - Arbitration
-  - Compensation Schemes
-  - Employment
-    -- Labour Market Programs
-    -- Trade Skills Assessment
-    -- Vocational Training Schemes
-  - National Service
-  - Occupational Health And Safety
-  - Trade Union Training
+  - arbitration
+  - compensation schemes
+  - national service
+  - employment
+    -- labour market programs
+    -- trade skills assessment
+    -- vocational training schemes
+  - occupational health and safety
+  - trade union training
 INDUSTRIES
 INVESTIGATION
 JUSTICE ADMINISTRATION
-  - Court Reporting
-  - Family Law
-  - Federal Law
-  - Supreme Law
-  - Administrative Law
-    -- Bankruptcy
-    -- Censorship
-    -- Consumer Affairs
-    -- Copyright
-    -- Human Rights
-    -- Legal Aid
-    -- Legal Services
-    -- Ombudsman
-    -- Administrative Decision Appeal
-    -- Administrative Decision Review
-    -- Censorship Standards
-    -- Copyright Regulation
-    -- Recordkeeping Standards
-  - Associations And Corporate Law
-  - Civil Law
-  - Commissions Of Inquiry
-  - Coronial Law
-  - Criminal Law
-  - Human Rights Obligations
-  - Juvenile Justice
-  - Legal Aid Services
-  - Local Laws And Ordinances
-  - Native Title Claims
-  - Privacy Guideline Monitoring
-  - Prosecution Services
+  - administrative law
+    -- bankruptcy
+    -- censorship
+    -- consumer affairs
+    -- copyright
+    -- human rights
+    -- legal aid
+    -- legal services
+    -- ombudsman
+    -- administrative decision appeal
+    -- administrative decision review
+    -- censorship standards
+    -- copyright regulation
+    -- recordkeeping standards
+  - court reporting
+  - family law
+  - federal law
+  - supreme law
+  - associations and corporate law
+  - civil law
+  - commissions of inquiry
+  - coronial law
+  - criminal law
+  - human rights obligations
+  - juvenile justice
+  - legal aid services
+  - local laws and ordinances
+  - native title claims
+    -- applications for native title
+    -- litigation processes
+    -- mediation programs
+    -- settlement negotiations
+  - privacy guideline monitoring
+  - prosecution services
 LAND USE
 LEGAL
 LEGISLATION
 LOANS
+MARITIME SERVICES
 MARKETING
 MEMORIALS
-  - Historic Memorials
-  - War Memorials
+  - historic memorials
+  - war memorials
 MIGRATION
-  - Citizenship
-    -- Naturalisation Assessment
-    -- Presentation Arrangements
-  - Deportation
-  - Migrant Services
-    -- Interpreter Services
-    -- Language Services
-    -- Migrant Accommodation Services
-    -- Migrant Settlements Programs
-  - Multiculturalism
-  - Passenger Entry Control
-  - Refugees
-  - Visas
+  - passenger entry control
+  - citizenship
+    -- naturalisation assessment
+    -- presentation arrangements
+  - deportation
+  - multiculturalism
+  - detention programs
+  - migrant services
+    -- interpreter services
+    -- language services
+    -- migrant accommodation services
+    -- migrant settlements programs
+  - refugee services
+  - travel authorisation
+  - refugees
+  - visas
 NATIONAL EVENTS
 NATIONAL LAND USE
 PARLIAMENTARY COMMITTEES
 PARLIAMENTARY MATTERS
-  - Parliamentary Chamber Administration
-  - Parliamentary Legislation
+  - parliamentary chamber administration
+  - parliamentary legislation
 PLANNING
 POLICE STATION
 PORT AUTHORITIES
 PRIMARY INDUSTRIES
-  - Agriculture
-    -- Horticulture
-    -- Pastoral
-    -- Viticulture
-  - Fisheries Regulation
-  - Forestry Regulation
-  - Chemical And Pesticide Regulation
-  - Climate Information Services
-  - Marine And Rural Regulation
-  - Marine And Rural Support
-  - Rural Field Day Promotion
-  - Rural Partnership Programs
-  - Quarantine
+  - agriculture
+    -- horticulture
+    -- pastoral
+    -- viticulture
+  - quarantine
+  - fisheries regulation
+  - forestry regulation
+  - chemical and pesticide regulation
+  - climate information services
+  - marine and rural regulation
+  - marine and rural support
+  - rural field day promotion
+  - rural partnership programs
 PUBLIC SERVICE
-  - Personnel
-    -- Equity Programs
-    -- Recruitment
+  - personnel
+    -- equity programs
+    -- recruitment
 RECORDS OF THE GOVERNMENT
 RECREATION
-  - National Fitness
-  - Parks
-  - Sport
-  - Tourism
-    -- Tourism Industry Development
-    -- Tourist Event Promotion
-    -- Travel Missions
+  - national fitness
+  - parks
+  - sport
+  - tourism
+    -- tourism industry development
+    -- tourist event promotion
+    -- travel missions
 RESEARCH
 RESEARCH AND DEVELOPMENT
 RESOURCES
-  - Energy
-  - Metals
-  - Mining
-  - Water Resources
-    -- Water Conservation Plans
-    -- Water Quality Monitoring
-    -- Water Usage Management
-    -- Waterway Management
-  - Crown Land Administration
-  - Energy Resources
-  - Land Use Planning
-  - Land Use Zoning
-  - Land Valuation
-  - Mineral Resources
-  - Pollution Emission Control
+  - energy
+  - metals
+  - mining
+  - water resources
+    -- water conservation plans
+    -- water quality monitoring
+    -- water usage management
+    -- waterway management
+  - crown land administration
+  - energy resources
+  - land use planning
+  - land use zoning
+  - land valuation
+  - mineral resources
+  - pollution emission control
+RETIREMENT INCOME
 ROYAL COMMISSIONS
 SCIENCE
-  - Analytical Services
-  - Earth Sciences
-    -- Atmospheric Sciences
-    -- Hydrology
-    -- Mineral Exploration
-    -- Oceanography
-    -- Seismography
-  - Marine Science
-  - Meteorology
-  - Scientific Research
-    -- Botany
-    -- Genetics
-    -- Zoology
-  - Space Science
-  - Survey And Mapping
-  - Agricultural Sciences
-  - Animal And Veterinary Sciences
-  - Applied Sciences
-  - Biological Sciences
-  - Mathematical Sciences
-  - Medical And Health Sciences
-  - Physical Sciences
-  - Spatial Information Research
+  - analytical services
+  - space science
+  - earth sciences
+    -- atmospheric sciences
+    -- hydrology
+    -- mineral exploration
+    -- oceanography
+    -- seismography
+  - scientific research
+    -- genetics
+    -- botany
+    -- zoology
+  - survey and mapping
+  - marine science
+  - meteorology
+  - agricultural sciences
+  - animal and veterinary sciences
+  - applied sciences
+  - biological sciences
+  - mathematical sciences
+  - medical and health sciences
+  - physical sciences
+  - spatial information research
 SEAT OF GOVERNMENT
 SECONDARY INDUSTRIES
+SECURITY
 SECURITY AND INTELLIGENCE
-  - External Security
-    -- International Security Liaison
-    -- Peacekeeping Forces
-  - Internal Security
-  - Wartime Security
-    -- Internees
-  - Law Enforcement
-    -- Corrective Services
-    -- Criminology
-    -- Police Administration
-    -- Protective Services
-    -- Community Policing
+  - community protection
+  - law enforcement
+    -- police administration
+    -- criminology
+    -- protective services
+    -- community policing
+  - wartime security
+    -- internees
+  - internal security
+  - external security
+    -- international security liaison
+    -- peacekeeping forces
+  - corrective services
+  - information security
+  - intelligence
+    -- forensic analysis
+    -- intelligence liaison
+    -- intelligence support
 SOCIAL AND ECONOMIC RESEARCH
 SOCIAL WELFARE
-  - Community Services
-    -- Child Welfare
-    -- Accommodation Services
-    -- Community Support
-    -- Community Transport
-    -- Counselling Services
-    -- Emergency Services
-      --- Ambulance Services
-      --- Emergency Funding
-      --- Firefighting Services
-    -- Financial Assistance
-    -- Natural Disasters
-      --- Defence Forces Assistance
-      --- Disaster Recovery
-      --- Disaster Relief
-    -- Rural Community Development
-    -- Social Justice And Equity
-  - Health Insurance
-  - Pensions And Benefits
+  - community services
+    -- community support
+    -- child welfare
+    -- accommodation services
+    -- community transport
+    -- counselling services
+    -- emergency services
+      --- ambulance services
+      --- emergency funding
+      --- firefighting services
+    -- financial assistance
+    -- natural disasters
+      --- defence forces assistance
+      --- disaster recovery
+      --- disaster relief
+    -- rural community development
+    -- social justice and equity
+  - pensions and benefits
+  - health insurance
 STANDARD SETTING
 STATISTICS
 SUPREME COURT LAW
 SURVEILLANCE
 SURVEILLANCE, ELECTRONIC
 TARIFF
+TARIFFS
 TERRITORY ADMINISTRATION
 TRADE
-  - Bounties
-  - Customs
-    -- Coastal Surveillance
-    -- Excise
-    -- Inspection Services
-    -- Tariff Regulation
-  - Exports And Imports
-  - Expositions
-  - Patents And Trademarks
-  - Trade Practices
-  - Weights And Measures
-  - Customs Regulations
-  - Export Regulation
-  - Import Regulation
-  - International Trade Agreements
-  - Interstate Trade Agreements
-  - Patent Registration
-  - Trade Development Programs
-  - Trade Expositions
-  - Trademark Registration
+  - bounties
+  - customs
+    -- coastal surveillance
+    -- excise
+    -- inspection services
+    -- tariff regulation
+  - exports and imports
+  - expositions
+  - customs regulations
+  - patents and trademarks
+  - import regulation
+  - trade practices
+  - weights and measures
+  - export regulation
+  - international trade agreements
+  - interstate trade agreements
+  - patent registration
+  - trade development programs
+  - trade expositions
+  - trademark registration
 TRAINING
 TRANSPORT
-  - Air Transport
-    -- Air Safety
-    -- Airports
-    -- Air Transport Safety
-    -- Aircraft Standards
-    -- Airport Services
-      --- Flight Regulation
-  - Land Transport
-    -- Rail Transport
-      --- Rail Harmonisation Standards
-      --- Rail Land Acquisition Regulation
-      --- Rail Transport Safety
-      --- Railway Maintenance
-    -- Road Safety
-    -- Road Transport
-      --- Driving Licenses Administration
-      --- Road Surface Maintenance
-      --- Road Traffic Regulation
-      --- Road Transport Safety
-      --- Vehicle Registration
-      --- Vehicle Standards
-  - Rescue Coordination
-  - Sea Transport
-    -- Lighthouses
-    -- Navigation
-    -- Port Regulation
-    -- Sea Safety
-  - Freight Movement Regulation
-  - Passenger Services
-  - Transport Infrastructure Development
+  - air transport
+    -- air safety
+    -- airports
+    -- air transport safety
+    -- aircraft standards
+    -- airport services
+      --- flight regulation
+  - sea transport
+    -- lighthouses
+    -- port regulation
+    -- sea safety
+    -- navigation
+  - land transport
+    -- rail transport
+      --- rail harmonisation standards
+      --- rail land acquisition regulation
+      --- rail transport safety
+      --- railway maintenance
+    -- road safety
+    -- road transport
+      --- driving licenses administration
+      --- road surface maintenance
+      --- road traffic regulation
+      --- road transport safety
+      --- vehicle registration
+      --- vehicle standards
+  - rescue coordination
+  - freight movement regulation
+  - passenger services
+  - transport infrastructure development
 TRANSPORT AND STORAGE
 URBAN OR REGIONAL DEVELOPMENT
 VETERANS' AFFAIRS
-  - Repatriation
-    -- Repatriation Hospitals
+  - repatriation
+    -- repatriation hospitals
 WORKS
-  - Building
-  - Civil Engineering
-  - Construction
-  - Housing
-  - Public Utilities
-  - Regional Development
-  - Urban Development
-  - Waste Disposal
+  - civil engineering
+  - building
+  - construction
+  - regional development
+  - public utilities
+  - housing
+  - waste disposal
+  - urban development

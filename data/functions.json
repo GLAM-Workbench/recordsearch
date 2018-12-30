@@ -3,6 +3,10 @@
         "term": "administrative services",
         "narrower": [
             {
+                "term": "government accommodation and catering",
+                "narrower": []
+            },
+            {
                 "term": "fleet",
                 "narrower": []
             },
@@ -12,10 +16,6 @@
             },
             {
                 "term": "goods and services",
-                "narrower": []
-            },
-            {
-                "term": "government accommodation and catering",
                 "narrower": []
             },
             {
@@ -50,6 +50,10 @@
         ]
     },
     {
+        "term": "arts",
+        "narrower": []
+    },
+    {
         "term": "audit",
         "narrower": []
     },
@@ -62,7 +66,19 @@
         "narrower": []
     },
     {
+        "term": "census collection",
+        "narrower": []
+    },
+    {
         "term": "ceremonial functions",
+        "narrower": []
+    },
+    {
+        "term": "civic infrastructure",
+        "narrower": []
+    },
+    {
+        "term": "civic management",
         "narrower": []
     },
     {
@@ -76,6 +92,15 @@
     {
         "term": "communications",
         "narrower": [
+            {
+                "term": "government media",
+                "narrower": [
+                    {
+                        "term": "advertising standards",
+                        "narrower": []
+                    }
+                ]
+            },
             {
                 "term": "broadcasting",
                 "narrower": [
@@ -92,36 +117,6 @@
                         "narrower": []
                     }
                 ]
-            },
-            {
-                "term": "government media",
-                "narrower": [
-                    {
-                        "term": "advertising standards",
-                        "narrower": []
-                    }
-                ]
-            },
-            {
-                "term": "postal services",
-                "narrower": [
-                    {
-                        "term": "courier services",
-                        "narrower": []
-                    },
-                    {
-                        "term": "electronic postal services",
-                        "narrower": []
-                    },
-                    {
-                        "term": "retail postal services",
-                        "narrower": []
-                    }
-                ]
-            },
-            {
-                "term": "publishing and printing",
-                "narrower": []
             },
             {
                 "term": "telecommunications",
@@ -147,6 +142,27 @@
                         "narrower": []
                     }
                 ]
+            },
+            {
+                "term": "postal services",
+                "narrower": [
+                    {
+                        "term": "courier services",
+                        "narrower": []
+                    },
+                    {
+                        "term": "electronic postal services",
+                        "narrower": []
+                    },
+                    {
+                        "term": "retail postal services",
+                        "narrower": []
+                    }
+                ]
+            },
+            {
+                "term": "publishing and printing",
+                "narrower": []
             },
             {
                 "term": "call centre administration",
@@ -177,6 +193,10 @@
                 "narrower": []
             }
         ]
+    },
+    {
+        "term": "community health services",
+        "narrower": []
     },
     {
         "term": "courts and tribunals",
@@ -273,18 +293,8 @@
         "term": "defence",
         "narrower": [
             {
-                "term": "defence administration",
-                "narrower": [
-                    {
-                        "term": "defence coordination",
-                        "narrower": [
-                            {
-                                "term": "natural disasters",
-                                "narrower": []
-                            }
-                        ]
-                    }
-                ]
+                "term": "defence intelligence",
+                "narrower": []
             },
             {
                 "term": "defence forces",
@@ -319,10 +329,6 @@
                         "term": "army",
                         "narrower": [
                             {
-                                "term": "army administration",
-                                "narrower": []
-                            },
-                            {
                                 "term": "army commands",
                                 "narrower": [
                                     {
@@ -338,6 +344,10 @@
                                         "narrower": []
                                     }
                                 ]
+                            },
+                            {
+                                "term": "army administration",
+                                "narrower": []
                             }
                         ]
                     },
@@ -357,10 +367,6 @@
                         "term": "navy",
                         "narrower": [
                             {
-                                "term": "navy administration",
-                                "narrower": []
-                            },
-                            {
                                 "term": "navy commands",
                                 "narrower": [
                                     {
@@ -372,6 +378,10 @@
                                         "narrower": []
                                     }
                                 ]
+                            },
+                            {
+                                "term": "navy administration",
+                                "narrower": []
                             }
                         ]
                     },
@@ -399,7 +409,7 @@
                 ]
             },
             {
-                "term": "defence intelligence",
+                "term": "australian defence forces (adf)",
                 "narrower": []
             },
             {
@@ -407,8 +417,13 @@
                 "narrower": []
             },
             {
-                "term": "australian defence forces (adf)",
-                "narrower": []
+                "term": "defence administration",
+                "narrower": [
+                    {
+                        "term": "defence coordination",
+                        "narrower": []
+                    }
+                ]
             },
             {
                 "term": "defence estate management",
@@ -446,8 +461,16 @@
         ]
     },
     {
+        "term": "early childhood education",
+        "narrower": []
+    },
+    {
         "term": "education",
         "narrower": [
+            {
+                "term": "student assistance",
+                "narrower": []
+            },
             {
                 "term": "curriculum development",
                 "narrower": []
@@ -465,14 +488,14 @@
                 "narrower": []
             },
             {
-                "term": "student assistance",
-                "narrower": []
-            },
-            {
                 "term": "tertiary education",
                 "narrower": []
             }
         ]
+    },
+    {
+        "term": "education and training",
+        "narrower": []
     },
     {
         "term": "electoral matters",
@@ -490,6 +513,10 @@
                 "narrower": []
             }
         ]
+    },
+    {
+        "term": "employment services",
+        "narrower": []
     },
     {
         "term": "environment",
@@ -553,20 +580,12 @@
         ]
     },
     {
+        "term": "finance management",
+        "narrower": []
+    },
+    {
         "term": "financial matters",
         "narrower": [
-            {
-                "term": "banking",
-                "narrower": []
-            },
-            {
-                "term": "commonwealth state relations",
-                "narrower": []
-            },
-            {
-                "term": "corporate affairs",
-                "narrower": []
-            },
             {
                 "term": "currency",
                 "narrower": [
@@ -579,6 +598,18 @@
                         "narrower": []
                     }
                 ]
+            },
+            {
+                "term": "banking",
+                "narrower": []
+            },
+            {
+                "term": "commonwealth state relations",
+                "narrower": []
+            },
+            {
+                "term": "corporate affairs",
+                "narrower": []
             },
             {
                 "term": "foreign investment control",
@@ -628,6 +659,10 @@
         ]
     },
     {
+        "term": "fiscal policy",
+        "narrower": []
+    },
+    {
         "term": "foreign policy",
         "narrower": [
             {
@@ -642,6 +677,19 @@
             {
                 "term": "international relations",
                 "narrower": [
+                    {
+                        "term": "overseas aid programs",
+                        "narrower": [
+                            {
+                                "term": "development assistance programs",
+                                "narrower": []
+                            },
+                            {
+                                "term": "overseas student scholarship programs",
+                                "narrower": []
+                            }
+                        ]
+                    },
                     {
                         "term": "consular services",
                         "narrower": []
@@ -663,19 +711,6 @@
                         "narrower": []
                     },
                     {
-                        "term": "overseas aid programs",
-                        "narrower": [
-                            {
-                                "term": "development assistance programs",
-                                "narrower": []
-                            },
-                            {
-                                "term": "overseas student scholarship programs",
-                                "narrower": []
-                            }
-                        ]
-                    },
-                    {
                         "term": "overseas promotion",
                         "narrower": []
                     },
@@ -692,6 +727,10 @@
         ]
     },
     {
+        "term": "governance",
+        "narrower": []
+    },
+    {
         "term": "governor general",
         "narrower": []
     },
@@ -703,18 +742,27 @@
         "term": "health",
         "narrower": [
             {
-                "term": "health services",
+                "term": "hospitals and clinics",
                 "narrower": [
                     {
-                        "term": "aged persons services",
+                        "term": "pathology",
                         "narrower": []
-                    },
+                    }
+                ]
+            },
+            {
+                "term": "health services",
+                "narrower": [
                     {
                         "term": "dental services",
                         "narrower": []
                     },
                     {
                         "term": "disability services",
+                        "narrower": []
+                    },
+                    {
+                        "term": "aged persons services",
                         "narrower": []
                     },
                     {
@@ -728,13 +776,8 @@
                 ]
             },
             {
-                "term": "hospitals and clinics",
-                "narrower": [
-                    {
-                        "term": "pathology",
-                        "narrower": []
-                    }
-                ]
+                "term": "pharmaceuticals and medical aids",
+                "narrower": []
             },
             {
                 "term": "medical research",
@@ -762,21 +805,21 @@
                 ]
             },
             {
-                "term": "pharmaceuticals and medical aids",
-                "narrower": []
-            },
-            {
-                "term": "quarantine",
-                "narrower": []
-            },
-            {
                 "term": "rehabilitation",
                 "narrower": []
             }
         ]
     },
     {
+        "term": "health care",
+        "narrower": []
+    },
+    {
         "term": "house of representatives committees",
+        "narrower": []
+    },
+    {
+        "term": "immigration",
         "narrower": []
     },
     {
@@ -808,6 +851,10 @@
                 "narrower": []
             },
             {
+                "term": "national service",
+                "narrower": []
+            },
+            {
                 "term": "employment",
                 "narrower": [
                     {
@@ -823,10 +870,6 @@
                         "narrower": []
                     }
                 ]
-            },
-            {
-                "term": "national service",
-                "narrower": []
             },
             {
                 "term": "occupational health and safety",
@@ -849,22 +892,6 @@
     {
         "term": "justice administration",
         "narrower": [
-            {
-                "term": "court reporting",
-                "narrower": []
-            },
-            {
-                "term": "family law",
-                "narrower": []
-            },
-            {
-                "term": "federal law",
-                "narrower": []
-            },
-            {
-                "term": "supreme law",
-                "narrower": []
-            },
             {
                 "term": "administrative law",
                 "narrower": [
@@ -923,6 +950,22 @@
                 ]
             },
             {
+                "term": "court reporting",
+                "narrower": []
+            },
+            {
+                "term": "family law",
+                "narrower": []
+            },
+            {
+                "term": "federal law",
+                "narrower": []
+            },
+            {
+                "term": "supreme law",
+                "narrower": []
+            },
+            {
                 "term": "associations and corporate law",
                 "narrower": []
             },
@@ -960,7 +1003,24 @@
             },
             {
                 "term": "native title claims",
-                "narrower": []
+                "narrower": [
+                    {
+                        "term": "applications for native title",
+                        "narrower": []
+                    },
+                    {
+                        "term": "litigation processes",
+                        "narrower": []
+                    },
+                    {
+                        "term": "mediation programs",
+                        "narrower": []
+                    },
+                    {
+                        "term": "settlement negotiations",
+                        "narrower": []
+                    }
+                ]
             },
             {
                 "term": "privacy guideline monitoring",
@@ -989,6 +1049,10 @@
         "narrower": []
     },
     {
+        "term": "maritime services",
+        "narrower": []
+    },
+    {
         "term": "marketing",
         "narrower": []
     },
@@ -1009,6 +1073,10 @@
         "term": "migration",
         "narrower": [
             {
+                "term": "passenger entry control",
+                "narrower": []
+            },
+            {
                 "term": "citizenship",
                 "narrower": [
                     {
@@ -1023,6 +1091,14 @@
             },
             {
                 "term": "deportation",
+                "narrower": []
+            },
+            {
+                "term": "multiculturalism",
+                "narrower": []
+            },
+            {
+                "term": "detention programs",
                 "narrower": []
             },
             {
@@ -1047,11 +1123,11 @@
                 ]
             },
             {
-                "term": "multiculturalism",
+                "term": "refugee services",
                 "narrower": []
             },
             {
-                "term": "passenger entry control",
+                "term": "travel authorisation",
                 "narrower": []
             },
             {
@@ -1122,6 +1198,10 @@
                 ]
             },
             {
+                "term": "quarantine",
+                "narrower": []
+            },
+            {
                 "term": "fisheries regulation",
                 "narrower": []
             },
@@ -1151,10 +1231,6 @@
             },
             {
                 "term": "rural partnership programs",
-                "narrower": []
-            },
-            {
-                "term": "quarantine",
                 "narrower": []
             }
         ]
@@ -1290,6 +1366,10 @@
         ]
     },
     {
+        "term": "retirement income",
+        "narrower": []
+    },
+    {
         "term": "royal commissions",
         "narrower": []
     },
@@ -1298,6 +1378,10 @@
         "narrower": [
             {
                 "term": "analytical services",
+                "narrower": []
+            },
+            {
+                "term": "space science",
                 "narrower": []
             },
             {
@@ -1326,22 +1410,14 @@
                 ]
             },
             {
-                "term": "marine science",
-                "narrower": []
-            },
-            {
-                "term": "meteorology",
-                "narrower": []
-            },
-            {
                 "term": "scientific research",
                 "narrower": [
                     {
-                        "term": "botany",
+                        "term": "genetics",
                         "narrower": []
                     },
                     {
-                        "term": "genetics",
+                        "term": "botany",
                         "narrower": []
                     },
                     {
@@ -1351,11 +1427,15 @@
                 ]
             },
             {
-                "term": "space science",
+                "term": "survey and mapping",
                 "narrower": []
             },
             {
-                "term": "survey and mapping",
+                "term": "marine science",
+                "narrower": []
+            },
+            {
+                "term": "meteorology",
                 "narrower": []
             },
             {
@@ -1401,8 +1481,50 @@
         "narrower": []
     },
     {
+        "term": "security",
+        "narrower": []
+    },
+    {
         "term": "security and intelligence",
         "narrower": [
+            {
+                "term": "community protection",
+                "narrower": []
+            },
+            {
+                "term": "law enforcement",
+                "narrower": [
+                    {
+                        "term": "police administration",
+                        "narrower": []
+                    },
+                    {
+                        "term": "criminology",
+                        "narrower": []
+                    },
+                    {
+                        "term": "protective services",
+                        "narrower": []
+                    },
+                    {
+                        "term": "community policing",
+                        "narrower": []
+                    }
+                ]
+            },
+            {
+                "term": "wartime security",
+                "narrower": [
+                    {
+                        "term": "internees",
+                        "narrower": []
+                    }
+                ]
+            },
+            {
+                "term": "internal security",
+                "narrower": []
+            },
             {
                 "term": "external security",
                 "narrower": [
@@ -1417,39 +1539,26 @@
                 ]
             },
             {
-                "term": "internal security",
+                "term": "corrective services",
                 "narrower": []
             },
             {
-                "term": "wartime security",
-                "narrower": [
-                    {
-                        "term": "internees",
-                        "narrower": []
-                    }
-                ]
+                "term": "information security",
+                "narrower": []
             },
             {
-                "term": "law enforcement",
+                "term": "intelligence",
                 "narrower": [
                     {
-                        "term": "corrective services",
+                        "term": "forensic analysis",
                         "narrower": []
                     },
                     {
-                        "term": "criminology",
+                        "term": "intelligence liaison",
                         "narrower": []
                     },
                     {
-                        "term": "police administration",
-                        "narrower": []
-                    },
-                    {
-                        "term": "protective services",
-                        "narrower": []
-                    },
-                    {
-                        "term": "community policing",
+                        "term": "intelligence support",
                         "narrower": []
                     }
                 ]
@@ -1467,15 +1576,15 @@
                 "term": "community services",
                 "narrower": [
                     {
+                        "term": "community support",
+                        "narrower": []
+                    },
+                    {
                         "term": "child welfare",
                         "narrower": []
                     },
                     {
                         "term": "accommodation services",
-                        "narrower": []
-                    },
-                    {
-                        "term": "community support",
                         "narrower": []
                     },
                     {
@@ -1535,11 +1644,11 @@
                 ]
             },
             {
-                "term": "health insurance",
+                "term": "pensions and benefits",
                 "narrower": []
             },
             {
-                "term": "pensions and benefits",
+                "term": "health insurance",
                 "narrower": []
             }
         ]
@@ -1566,6 +1675,10 @@
     },
     {
         "term": "tariff",
+        "narrower": []
+    },
+    {
+        "term": "tariffs",
         "narrower": []
     },
     {
@@ -1609,7 +1722,15 @@
                 "narrower": []
             },
             {
+                "term": "customs regulations",
+                "narrower": []
+            },
+            {
                 "term": "patents and trademarks",
+                "narrower": []
+            },
+            {
+                "term": "import regulation",
                 "narrower": []
             },
             {
@@ -1621,15 +1742,7 @@
                 "narrower": []
             },
             {
-                "term": "customs regulations",
-                "narrower": []
-            },
-            {
                 "term": "export regulation",
-                "narrower": []
-            },
-            {
-                "term": "import regulation",
                 "narrower": []
             },
             {
@@ -1692,6 +1805,27 @@
                                 "narrower": []
                             }
                         ]
+                    }
+                ]
+            },
+            {
+                "term": "sea transport",
+                "narrower": [
+                    {
+                        "term": "lighthouses",
+                        "narrower": []
+                    },
+                    {
+                        "term": "port regulation",
+                        "narrower": []
+                    },
+                    {
+                        "term": "sea safety",
+                        "narrower": []
+                    },
+                    {
+                        "term": "navigation",
+                        "narrower": []
                     }
                 ]
             },
@@ -1759,27 +1893,6 @@
                 "narrower": []
             },
             {
-                "term": "sea transport",
-                "narrower": [
-                    {
-                        "term": "lighthouses",
-                        "narrower": []
-                    },
-                    {
-                        "term": "navigation",
-                        "narrower": []
-                    },
-                    {
-                        "term": "port regulation",
-                        "narrower": []
-                    },
-                    {
-                        "term": "sea safety",
-                        "narrower": []
-                    }
-                ]
-            },
-            {
                 "term": "freight movement regulation",
                 "narrower": []
             },
@@ -1819,11 +1932,11 @@
         "term": "works",
         "narrower": [
             {
-                "term": "building",
+                "term": "civil engineering",
                 "narrower": []
             },
             {
-                "term": "civil engineering",
+                "term": "building",
                 "narrower": []
             },
             {
@@ -1831,7 +1944,7 @@
                 "narrower": []
             },
             {
-                "term": "housing",
+                "term": "regional development",
                 "narrower": []
             },
             {
@@ -1839,15 +1952,15 @@
                 "narrower": []
             },
             {
-                "term": "regional development",
-                "narrower": []
-            },
-            {
-                "term": "urban development",
+                "term": "housing",
                 "narrower": []
             },
             {
                 "term": "waste disposal",
+                "narrower": []
+            },
+            {
+                "term": "urban development",
                 "narrower": []
             }
         ]
