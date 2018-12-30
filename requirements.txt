@@ -11,3 +11,5 @@ tinydb==3.12.1
 tqdm==4.28.1
 altair==2.3.0
 vega==1.4.0
+python-slugify==1.2.6
+arrow==0.12.1
