@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3544754.svg)](https://doi.org/10.5281/zenodo.3544754)
+
 # RecordSearch
 
 Jupyter notebooks to work with data from the National Archives of Australia's RecordSearch database.
