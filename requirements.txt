@@ -95,7 +95,7 @@ traceback2==1.4.0
 traitlets==5.0.5
 unittest2==1.1.0
 url-normalize==1.4.3
-urllib3==1.26.4
+urllib3==1.26.5
 vega==3.4.0
 voila==0.2.10
 voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git@4b5d6d3387656a0d01b14c2ce0107e34f774377a
