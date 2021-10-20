@@ -1,5 +1,7 @@
 # RecordSearch
 
+Current version: [v1.0.0](https://github.com/GLAM-Workbench/recordsearch/releases/tag/v1.0.0)
+
 This repository contains Jupyter notebooks to work with data from the National Archives of Australia's RecordSearch database.
 
 [RecordSearch](https://recordsearch.naa.gov.au/) is the online collection database of the National Archives of Australia. Based on the [series system](https://www.naa.gov.au/help-your-research/getting-started/commonwealth-record-series-crs-system), RecordSearch provides rich, contextual information about series, items, agencies, and functions.
@@ -63,7 +65,24 @@ See the [Using Binder](https://glam-workbench.net/using-binder/) section of the 
 * Sit back and wait for the installation to complete!
 * Once the installation is finished click on the 'Open in Browser' button of your newly created environment (note that you might need to wait a few minutes before everything is ready).
 
-See the [Using Reclaim Cloud](https://glam-workbench.net/using-reclaim-cloud/) section GLAM Workbench [for more details.
+See the [Using Reclaim Cloud](https://glam-workbench.net/using-reclaim-cloud/) section of the GLAM Workbench for more details.
+
+### Using the Nectar Research Cloud
+
+The [Nectar Research Cloud](https://ardc.edu.au/services/nectar-research-cloud/) (part of the Australian Research Data Commons) provides cloud computing services to researchers in Australian and New Zealand universities. Any university-affiliated researcher can log on to Nectar and receive [up to 6 months of free cloud computing time](https://tutorials.rc.nectar.org.au/allocation-management/03-account-and-trial). And if you need more, you can [apply for a specific project allocation](https://tutorials.rc.nectar.org.au/allocation-management/04-allocation-and-projects).
+
+The GLAM Workbench is available in the Nectar Cloud as a pre-configured application. This means you can get it up and going without worrying about the technical infrastructure – just fill in a few details and you're away! To create an instance of this repository in the Nectar Cloud:
+
+* Log in to the [Nectar Dashboard](https://dashboard.rc.nectar.org.au/) using your university credentials.
+* From the Dashboard choose **Applications -> Browse Local**.
+* Enter 'GLAM' in the filter box and hit Enter, you should see the GLAM Workbench application.
+* Click on the GLAM Workbench application's  **Quick Deploy** button.
+* Step through the various [configuration options](https://glam-workbench.net/using-nectar/#setting-up-your-own-glam-workbench-repository). Some options are only available if you have a dedicated project allocation.
+* When asked to select a GLAM Workbench repository, choose 'Reccordsearch' from the dropdown.
+* Complete the configuration and deploy your GLAM Workbench instance.
+* The url to access your instance will be displayed once it's ready. Click on the url!
+
+See [Using Nectar](https://glam-workbench.net/using-nectar/) for more details.
 
 ### Using Docker
 
