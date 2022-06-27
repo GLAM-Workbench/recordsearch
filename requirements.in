@@ -1,0 +1,20 @@
+IPython
+pillow
+altair
+arrow
+beautifulsoup4
+ipywidgets
+jupyterlab
+mechanicalsoup
+pandas
+requests
+python-slugify
+tinydb
+tqdm
+voila
+voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
+recordsearch_data_scraper
+lxml
+jupyter-archive
+python-dotenv
+rectpack

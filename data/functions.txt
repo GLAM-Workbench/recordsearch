@@ -24,25 +24,25 @@ COMMUNICATIONS
   - government media
     -- advertising standards
   - broadcasting
+    -- broadcasting standards
     -- radio broadcasting
     -- television broadcasting
-    -- broadcasting standards
   - telecommunications
     -- carriage service providers
     -- carrier licensing
     -- equipment licensing
     -- mobile telephone services
     -- telephone services
-  - postal services
-    -- courier services
-    -- electronic postal services
-    -- retail postal services
-  - publishing and printing
   - call centre administration
   - electronic commerce
   - information management standards
   - media ownership regulation
+  - postal services
+    -- courier services
+    -- electronic postal services
+    -- retail postal services
   - publishing
+  - publishing and printing
   - radio communication
   - satellite communication
 COMMUNITY HEALTH SERVICES
@@ -50,23 +50,23 @@ COURTS AND TRIBUNALS
 CULTURAL AFFAIRS
   - archives administration
   - arts development
-    -- film production
     -- arts funding
     -- arts incentive schemes
     -- arts promotion
+    -- film production
   - collection management
     -- artifact export regulation
     -- collection accessioning
     -- collection acquisition
     -- collection storage
     -- preservation services
-  - literature funding
   - collection access
   - collection promotion
   - cultural awards and scholarships
   - cultural festivals
   - cultural gifts programs
   - indigenous cultural heritage
+  - literature funding
   - multicultural heritage promotion
 DEFENCE
   - defence intelligence
@@ -124,15 +124,15 @@ ELECTORAL MATTERS
 EMPLOYMENT SERVICES
 ENVIRONMENT
   - conservation
-  - environmental monitoring
-  - national heritage
-  - national parks
   - built environment
   - conservation programs
   - environmental impact assessment
+  - environmental monitoring
   - historic relic protection
   - indigenous heritage conservation
   - marine life protection programs
+  - national heritage
+  - national parks
   - natural heritage protection
   - oceans governance
   - pollutant prevention programs
@@ -213,23 +213,22 @@ INDUSTRIES
 INVESTIGATION
 JUSTICE ADMINISTRATION
   - administrative law
+    -- administrative decision appeal
+    -- administrative decision review
     -- bankruptcy
     -- censorship
+    -- censorship standards
     -- consumer affairs
     -- copyright
+    -- copyright regulation
     -- human rights
     -- legal aid
     -- legal services
     -- ombudsman
-    -- administrative decision appeal
-    -- administrative decision review
-    -- censorship standards
-    -- copyright regulation
     -- recordkeeping standards
   - court reporting
   - family law
   - federal law
-  - supreme law
   - associations and corporate law
   - civil law
   - commissions of inquiry
@@ -246,6 +245,7 @@ JUSTICE ADMINISTRATION
     -- settlement negotiations
   - privacy guideline monitoring
   - prosecution services
+  - supreme law
 LAND USE
 LEGAL
 LEGISLATION
@@ -314,11 +314,6 @@ RESOURCES
   - energy
   - metals
   - mining
-  - water resources
-    -- water conservation plans
-    -- water quality monitoring
-    -- water usage management
-    -- waterway management
   - crown land administration
   - energy resources
   - land use planning
@@ -326,6 +321,11 @@ RESOURCES
   - land valuation
   - mineral resources
   - pollution emission control
+  - water resources
+    -- water conservation plans
+    -- water quality monitoring
+    -- water usage management
+    -- waterway management
 RETIREMENT INCOME
 ROYAL COMMISSIONS
 SCIENCE
@@ -415,24 +415,24 @@ TRADE
   - customs regulations
   - patents and trademarks
   - import regulation
-  - trade practices
-  - weights and measures
   - export regulation
   - international trade agreements
   - interstate trade agreements
   - patent registration
   - trade development programs
   - trade expositions
+  - trade practices
   - trademark registration
+  - weights and measures
 TRAINING
 TRANSPORT
   - air transport
     -- air safety
-    -- airports
     -- air transport safety
     -- aircraft standards
     -- airport services
       --- flight regulation
+    -- airports
   - sea transport
     -- lighthouses
     -- port regulation
@@ -452,9 +452,9 @@ TRANSPORT
       --- road transport safety
       --- vehicle registration
       --- vehicle standards
-  - rescue coordination
   - freight movement regulation
   - passenger services
+  - rescue coordination
   - transport infrastructure development
 TRANSPORT AND STORAGE
 URBAN OR REGIONAL DEVELOPMENT

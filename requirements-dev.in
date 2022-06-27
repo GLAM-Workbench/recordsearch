@@ -1,0 +1,18 @@
+-c requirements.txt
+pytest
+nbval
+nbqa
+black[jupyter]
+isort
+flake8
+pre-commit
+frictionless
+frictionless[json]
+papermill
+
+ipycytoscape
+secretcolors
+textblob
+sqlite-utils
+datasette
+pyzotero
