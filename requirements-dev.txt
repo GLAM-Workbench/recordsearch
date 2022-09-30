@@ -199,7 +199,7 @@ jinja2==3.0.3
     #   frictionless
     #   nbconvert
     #   notebook
-joblib==1.1.0
+joblib==1.2.0
     # via nltk
 jsonlines==3.0.0
     # via frictionless
