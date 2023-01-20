@@ -1,6 +1,6 @@
 # RecordSearch
 
-Current version: [v1.1.0](https://github.com/GLAM-Workbench/recordsearch/releases/tag/v1.1.0)
+Current version: [v1.1.1](https://github.com/GLAM-Workbench/recordsearch/releases/tag/v1.1.1)
 
 This repository contains Jupyter notebooks to work with data from the National Archives of Australia's RecordSearch database.
 
