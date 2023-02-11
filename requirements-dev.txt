@@ -162,7 +162,7 @@ ipykernel==6.15.0
     #   ipywidgets
     #   nbval
     #   notebook
-ipython==8.4.0
+ipython==8.10.0
     # via
     #   -c requirements.txt
     #   black
@@ -334,7 +334,7 @@ prometheus-client==0.14.1
     # via
     #   -c requirements.txt
     #   notebook
-prompt-toolkit==3.0.29
+prompt-toolkit==3.0.36
     # via
     #   -c requirements.txt
     #   ipython
@@ -563,6 +563,3 @@ zipp==3.8.0
     # via
     #   -c requirements.txt
     #   importlib-resources
-
-# The following packages are considered to be unsafe in a requirements file:
-# setuptools
